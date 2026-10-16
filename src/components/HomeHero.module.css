@@ -1,0 +1,131 @@
+.hero {
+  position: relative;
+  isolation: isolate;
+  min-height: 100svh;
+  display: flex;
+  align-items: flex-end;
+  color: var(--white);
+  background: var(--night);
+}
+
+.media {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  overflow: hidden;
+}
+
+.img {
+  position: absolute;
+  inset: 0;
+}
+
+.night {
+  opacity: 0;
+  transition: opacity 1.2s var(--ease-out);
+}
+
+.visible {
+  opacity: 1;
+}
+
+/* Neutral scrim under the type: darker at the foot, clear at the top. */
+.media::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(180deg, rgba(22, 19, 15, 0.45) 0%, rgba(22, 19, 15, 0) 22%),
+    linear-gradient(0deg, rgba(22, 19, 15, 0.78) 0%, rgba(22, 19, 15, 0.35) 42%, rgba(22, 19, 15, 0) 70%);
+}
+
+.content {
+  width: 100%;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  align-items: end;
+  gap: 40px;
+  padding-top: 160px;
+  padding-bottom: clamp(40px, 6vw, 80px);
+}
+
+.copy {
+  display: grid;
+  justify-items: start;
+  gap: 22px;
+}
+
+.title {
+  max-width: 19ch;
+  font-size: clamp(2.375rem, 1.4rem + 3.6vw, 5rem);
+  line-height: 1.04;
+  letter-spacing: -0.02em;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 10px;
+}
+
+.light {
+  display: grid;
+  justify-items: end;
+  gap: 12px;
+  padding-bottom: 6px;
+}
+
+.clock {
+  font-family: var(--sans);
+  font-weight: 300;
+  font-size: var(--fs-eyebrow);
+  letter-spacing: 2px;
+  white-space: nowrap;
+}
+
+.clockTime {
+  font-variant-numeric: tabular-nums;
+}
+
+.switch {
+  display: flex;
+  border: 1px solid rgba(255, 255, 255, 0.7);
+}
+
+.switch button {
+  min-height: 44px;
+  padding: 0 18px;
+  background: transparent;
+  border: 0;
+  color: var(--white);
+  font-family: var(--sans);
+  font-size: 0.8125rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition:
+    background-color 0.35s var(--ease-out),
+    color 0.35s var(--ease-out);
+}
+
+.switch button:hover {
+  background: rgba(255, 255, 255, 0.16);
+}
+
+.switch .on,
+.switch .on:hover {
+  background: var(--white);
+  color: var(--ink);
+}
+
+@media (max-width: 800px) {
+  .content {
+    grid-template-columns: 1fr;
+    gap: 32px;
+  }
+
+  .light {
+    justify-items: start;
+  }
+}

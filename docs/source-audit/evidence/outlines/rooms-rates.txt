@@ -1,0 +1,232 @@
+TITLE: Rooms & Rates – Omer Villas
+META robots = max-image-preview:large
+LINK ['canonical'] https://omervilla.com/rooms-rates
+  BG[page-header-bg-image]: https://omervilla.com/wp-content/uploads/2024/10/Omer-Bedrooms-1.jpg
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Bedrooms-1.jpg |alt= Rooms & Rates | None x None
+  LINK/BTN: Feature -> https://omervilla.com/category/feature | feature
+[h1] Rooms & Rates
+  LINK/BTN: nsurya.wijaya -> https://omervilla.com/author/nsurya-wijaya | 
+  LINK/BTN: No Comments -> https://omervilla.com/rooms-rates#respond | 
+---- ROW fws_6acecb825eec4 wpb_row vc_row-fluid vc_row full-width-section
+  DATA-IMG data-nectar-img-src https://omervilla.com/wp-content/uploads/2024/10/Omer-Bedrooms-1.jpg
+[h1] Rooms
+[h6] – Gallery & Rates –
+---- ROW fws_6acecb825f394 wpb_row vc_row-fluid vc_row full-width-section
+---- ROW fws_6acecb8261518 wpb_row vc_row-fluid vc_row inner_row
+[h6] — Discover —
+[h2] Omer Villa and Retreat
+  Our villa is a modern yet soulful sanctuary with a deep respect for Balinese traditions. Omer Villa boasts spacious living areas, carefully curated interiors, and stunning outdoor spaces where you can unwind and reconnect with nature. Whether you’re lounging by the pool, enjoying a quiet moment in the garden, or watching the breathtaking sunrise, every corner of the villa is designed to offer relaxation and peace.
+---- ROW fws_6acecb8261a55 wpb_row vc_row-fluid vc_row full-width-content vc_row-o-equal-height vc_row-flex vc_row-o-
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat22-600x400.jpg |alt= Omer Villa and Retreat22 | 600 x 400
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat22.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat16-600x400.jpg |alt= Omer Villa and Retreat16 | 600 x 400
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat16.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat15-600x400.jpg |alt= Omer Villa and Retreat15 | 600 x 400
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat15.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat17-600x400.jpg |alt= Omer Villa and Retreat17 | 600 x 400
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat17.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat18-600x400.jpg |alt= Omer Villa and Retreat18 | 600 x 400
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat18.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat19-600x400.jpg |alt= Omer Villa and Retreat19 | 600 x 400
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat19.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat20-600x400.jpg |alt= Omer Villa and Retreat20 | 600 x 400
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat20.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat21-600x400.jpg |alt= Omer Villa and Retreat21 | 600 x 400
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat21.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat10-600x400.jpg |alt= Omer Villa and Retreat10 | 600 x 400
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat10.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat9-600x400.jpg |alt= Omer Villa and Retreat9 | 600 x 400
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat9.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat4-600x400.jpg |alt= Omer Villa and Retreat4 | 600 x 400
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat4.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat1-600x400.jpg |alt= Omer Villa and Retreat1 | 600 x 400
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat1.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat2-600x400.jpg |alt= Omer Villa and Retreat2 | 600 x 400
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat2.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat3-600x400.jpg |alt= Omer Villa and Retreat3 | 600 x 400
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat3.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat8-600x400.jpg |alt= Omer Villa and Retreat8 | 600 x 400
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat8.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat5-600x400.jpg |alt= Omer Villa and Retreat5 | 600 x 400
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat5.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat6-600x400.jpg |alt= Omer Villa and Retreat6 | 600 x 400
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat6.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat7-600x400.jpg |alt= Omer Villa and Retreat7 | 600 x 400
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat7.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat11-600x400.jpg |alt= Omer Villa and Retreat11 | 600 x 400
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat11.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat12-600x400.jpg |alt= Omer Villa and Retreat12 | 600 x 400
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat12.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat13-600x400.jpg |alt= Omer Villa and Retreat13 | 600 x 400
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat13.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat14-600x400.jpg |alt= Omer Villa and Retreat14 | 600 x 400
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat14.jpg | entire-slide-link
+---- ROW fws_6acecb8267466 wpb_row vc_row-fluid vc_row full-width-section
+---- ROW fws_6acecb8267588 wpb_row vc_row-fluid vc_row inner_row
+---- ROW fws_6acecb8267d66 wpb_row vc_row-fluid vc_row inner_row
+[h4] 5 Bedrooms
+---- ROW fws_6acecb8267e97 wpb_row vc_row-fluid vc_row inner_row
+  Each room is thoughtfully designed to create a calming atmosphere, with king-sized beds, en-suite bathrooms, and private terraces that overlook the natural beauty of Bali.
+---- ROW fws_6acecb826801f wpb_row vc_row-fluid vc_row inner_row
+---- ROW fws_6acecb82680f4 wpb_row vc_row-fluid vc_row inner_row
+[h4] Private Pool
+---- ROW fws_6acecb82681cd wpb_row vc_row-fluid vc_row inner_row
+  Dive into our sparkling private pool, facing rice field view and tropical greenery, offering the perfect space for both relaxation and fun.
+---- ROW fws_6acecb826832b wpb_row vc_row-fluid vc_row inner_row
+---- ROW fws_6acecb82683ed wpb_row vc_row-fluid vc_row inner_row
+[h4] Open-Air Living Spaces
+---- ROW fws_6acecb82684cd wpb_row vc_row-fluid vc_row inner_row
+  Enjoy Bali’s warm breezes in our open-plan living and dining areas, perfect for family gatherings or intimate dinners with friends.
+---- ROW fws_6acecb8268696 wpb_row vc_row-fluid vc_row full-width-content vc_row-o-equal-height vc_row-flex vc_row-o-
+[h2] Rates
+[h3] 5 Bedroom
+[h4] Low Season
+[h4] IDR 6,500,000 /night
+[h4] High Season
+[h4] IDR 7,500,000 /night
+[h4] Peak Season
+[h4] IDR 8,500,000 /night
+  Maximum capacity: 10 adults + 5 children under 12 years old.
+[h3] 4 Bedroom
+[h4] Low Season
+[h4] IDR 5,000,000 /night
+[h4] High Season
+[h4] IDR 6,000,000 /night
+[h4] Peak Season
+[h4] IDR 7,000,000 /night
+  Maximum capacity: 8 adults + 4 children under 12 years old.
+[h3] 3 Bedroom
+[h4] Low Season
+[h4] IDR 4,000,000 /night
+[h4] High Season
+[h4] IDR 5,000,000 /night
+[h4] Peak Season
+[h4] IDR 6,000,000 /night
+  Maximum capacity: 6 adults + 3 children under 12 years old.
+[h3] 2 Bedroom
+[h4] Low Season
+[h4] IDR 3,000,000 /night
+[h4] High Season
+[h4] IDR 4,000,000 /night
+[h4] Peak Season
+[h4] IDR 5,000,000 /night
+  Maximum capacity: 4 adults + 2 children under 12 years old.
+  Price are per night excluding 10% government tax. Daily breakfast included. Valid for bookings and stays from September to December 15, 2024. Children above 7 years old require an extra bed at IDR 350,000 per night, including daily breakfast.
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat22-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat22.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat16-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat16.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat15-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat15.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat17-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat17.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat18-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat18.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat19-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat19.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat20-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat20.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat21-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat21.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat10-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat10.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat9-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat9.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat4-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat4.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat1-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat1.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat2-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat2.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat3-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat3.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat8-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat8.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat5-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat5.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat6-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat6.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat7-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat7.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat11-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat11.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat12-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat12.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat13-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat13.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat14-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat14.jpg | entire-slide-link
+---- ROW fws_6acecb826c7ca wpb_row vc_row-fluid vc_row full-width-content vc_row-o-equal-height vc_row-flex vc_row-o-
+[h2] 1 Bedroom Joglo
+[h4] Low Season
+[h4] IDR 1,250,000 /night
+[h4] High Season
+[h4] IDR 2,250,000 /night
+[h4] Peak Season
+[h4] IDR 3,250,000 /night
+  Price are per night excluding 10% government tax. Daily breakfast included. Valid for bookings and stays from September to December 15, 2024. Children above 7 years old require an extra bed at IDR 350,000 per night, including daily breakfast.
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-Joglo11-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-Joglo11.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-Joglo10-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-Joglo10.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-Joglo1-1024x682.jpg |alt=  | 1024 x 682
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-Joglo1.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-Joglo12-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-Joglo12.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-Joglo6-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-Joglo6.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-Joglo7-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-Joglo7.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-Joglo8-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-Joglo8.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-Joglo9-1024x768.jpg |alt=  | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-Joglo9.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-Joglo5-1024x682.jpg |alt=  | 1024 x 682
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-Joglo5.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-Joglo4-1024x682.jpg |alt=  | 1024 x 682
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-Joglo4.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-Joglo3-682x1024.jpg |alt=  | 682 x 1024
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-Joglo3.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-Joglo2-682x1024.jpg |alt=  | 682 x 1024
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-Joglo2.jpg | entire-slide-link
+  LINK/BTN:  -> # | 
+  LINK/BTN: Share -> # | facebook-share nectar-sharing
+  LINK/BTN: Share -> # | twitter-share nectar-sharing
+  LINK/BTN: Share -> # | linkedin-share nectar-sharing
+  LINK/BTN: Pin -> # | pinterest-share nectar-sharing
+---- ROW fws_6acecb8271a1e wpb_row vc_row-fluid vc_row full-width-section
+---- ROW fws_6acecb8271b80 wpb_row vc_row-fluid vc_row inner_row translate_y_0pct
+[h3] Send your inquiry. We are happy to assist you.
+  LINK/BTN: CONTACT US -> http://omervilla.com/contact-us/ | nectar-button large see-through-2 btnkr
+  LINK/BTN: FIND US ON AIRBNB -> https://www.airbnb.com/users/show/650556914 | nectar-button large regular accent-color has-icon regular-bu
+  IMG: http://omervilla.com/wp-content/uploads/2024/10/Omer-Logo-Footer.png |alt=  | 813 x 250
+  LINK/BTN: Rates -> http://omervilla.com/rooms-rates/ | 
+  LINK/BTN: Venue -> http://omervilla.com/event-venue/ | 
+  LINK/BTN: Wellness -> http://omervilla.com/yoga-wellness/ | 
+  LINK/BTN: Location -> http://omervilla.com/#location | 
+  LINK/BTN: Dining -> http://omervilla.com/food/ | 
+  LINK/BTN: Experience -> http://omervilla.com/cultural-spiritual-activities/ | 
+  LINK/BTN: Family & Groups -> http://omervilla.com/family-groups/ | 
+  LINK/BTN: Contact Us -> http://omervilla.com/contact-us/ | 
+[h6] Keep close with Omer
+  LINK/BTN:  -> https://www.instagram.com/omer.villa.and.retreat/ | 
+     IMG: http://omervilla.com/wp-content/uploads/2024/10/Ig-icon.png |alt= None
+  LINK/BTN:  -> https://www.facebook.com/profile.php?id=61564987540215&mibextid=kFxxJD | 
+     IMG: http://omervilla.com/wp-content/uploads/2024/10/facebook-icon.png |alt= None
+[h3] Omer Specials
+  Promo 20% OFF First Stay 20% OFF - First Stay - Book directly with us or through Airbnb and enjoy…
+     LINK:  -> https://omervilla.com/20-off-first-stay
+     LINK:  -> https://omervilla.com/20-off-first-stay
+     LINK: Promo -> https://omervilla.com/category/promo
+     IMG: https://omervilla.com/wp-content/uploads/2024/10/IMG_4276.jpeg |alt= 
+  © 2026 Omer Villas. A website by SuryaNirmala
+     LINK: SuryaNirmala -> http://suryanirmala.com
+  LINK/BTN: Close Menu -> # | slide_out_area_close
+  - Home
+     LINK: Home -> https://omervilla.com/
+  - Rooms & Rates
+     LINK: Rooms & Rates -> https://omervilla.com/rooms-rates
+  - Event & Venue
+     LINK: Event & Venue -> https://omervilla.com/event-venue
+  - Contact Us
+     LINK: Contact Us -> https://omervilla.com/contact-us

@@ -1,0 +1,72 @@
+TITLE: Family & Groups – Omer Villas
+META robots = max-image-preview:large
+LINK ['canonical'] https://omervilla.com/family-groups
+  BG[page-header-bg-image]: https://omervilla.com/wp-content/uploads/2024/10/DSCF8625-2.jpg
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/DSCF8625-2.jpg |alt= Family & Groups | None x None
+  LINK/BTN: Feature -> https://omervilla.com/category/feature | feature
+[h1] Family & Groups
+  LINK/BTN: nsurya.wijaya -> https://omervilla.com/author/nsurya-wijaya | 
+  LINK/BTN: No Comments -> https://omervilla.com/family-groups#respond | 
+---- ROW fws_6acef26384bea wpb_row vc_row-fluid vc_row full-width-section
+  DATA-IMG data-nectar-img-src https://omervilla.com/wp-content/uploads/2024/10/DSCF8625-2.jpg
+[h1] Family & Groups
+[h6] – Create Unforgettable Memories –
+---- ROW fws_6acef26385731 wpb_row vc_row-fluid vc_row full-width-content vc_row-o-equal-height vc_row-flex vc_row-o-
+[h2] Family & Groups
+[h6] Create Unforgettable Memories – Your Family’s Escape Awaits at Omer Villa & Retreat
+  Omer Villa & Retreat is a family-friendly and group accommodation nestled between Canggu and Ubud, offering a peaceful escape in the heart of Bali. Surrounded by lush rice fields, the villa provides a spacious and serene setting ideal for families, friends, or groups seeking a private retreat.
+  Designed with comfort and eco-friendly living in mind, Omer Villa offers ample space for both relaxation and recreation. Kids can enjoy exploring the garden or playing in the outdoor areas, while adults unwind by the pool or take in the tranquil views. With its close proximity to the beaches of Canggu and the cultural richness of Ubud, Omer Villa is the perfect base for exploring Bali’s vibrant landscapes, whether you’re surfing, sightseeing, or simply relaxing as a family.
+  With multiple bedrooms, large common areas, and plenty of outdoor space, Omer Villa & Retreat is well-suited for gatherings, reunions, or group vacations, making it a versatile choice for those seeking a blend of comfort, nature, and adventure.
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/DSCF8526-1024x682.jpg |alt=  | 1024 x 682
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/DSCF8526.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/DSCF8577-1024x681.jpg |alt=  | 1024 x 681
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/DSCF8577.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/09/IMG_9386-copy-768x1024.jpg |alt=  | 768 x 1024
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/09/IMG_9386-copy.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/DSCF8625-2-1024x682.jpg |alt=  | 1024 x 682
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/DSCF8625-2.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/IMG_8959-copy-1024x768.jpg |alt= Omer Pool fence | 1024 x 768
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/IMG_8959-copy.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/DSCF8552-1024x682.jpg |alt=  | 1024 x 682
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/DSCF8552.jpg | entire-slide-link
+  LINK/BTN:  -> # | 
+  LINK/BTN: Share -> # | facebook-share nectar-sharing
+  LINK/BTN: Share -> # | twitter-share nectar-sharing
+  LINK/BTN: Share -> # | linkedin-share nectar-sharing
+  LINK/BTN: Pin -> # | pinterest-share nectar-sharing
+---- ROW fws_6acef2638946a wpb_row vc_row-fluid vc_row full-width-section
+---- ROW fws_6acef2638ae2a wpb_row vc_row-fluid vc_row inner_row translate_y_0pct
+[h3] Send your inquiry. We are happy to assist you.
+  LINK/BTN: CONTACT US -> http://omervilla.com/contact-us/ | nectar-button large see-through-2 btnkr
+  LINK/BTN: FIND US ON AIRBNB -> https://www.airbnb.com/users/show/650556914 | nectar-button large regular accent-color has-icon regular-bu
+  IMG: http://omervilla.com/wp-content/uploads/2024/10/Omer-Logo-Footer.png |alt=  | 813 x 250
+  LINK/BTN: Rates -> http://omervilla.com/rooms-rates/ | 
+  LINK/BTN: Venue -> http://omervilla.com/event-venue/ | 
+  LINK/BTN: Wellness -> http://omervilla.com/yoga-wellness/ | 
+  LINK/BTN: Location -> http://omervilla.com/#location | 
+  LINK/BTN: Dining -> http://omervilla.com/food/ | 
+  LINK/BTN: Experience -> http://omervilla.com/cultural-spiritual-activities/ | 
+  LINK/BTN: Family & Groups -> http://omervilla.com/family-groups/ | 
+  LINK/BTN: Contact Us -> http://omervilla.com/contact-us/ | 
+[h6] Keep close with Omer
+  LINK/BTN:  -> https://www.instagram.com/omer.villa.and.retreat/ | 
+     IMG: http://omervilla.com/wp-content/uploads/2024/10/Ig-icon.png |alt= None
+  LINK/BTN:  -> https://www.facebook.com/profile.php?id=61564987540215&mibextid=kFxxJD | 
+     IMG: http://omervilla.com/wp-content/uploads/2024/10/facebook-icon.png |alt= None
+[h3] Omer Specials
+  Promo 20% OFF First Stay 20% OFF - First Stay - Book directly with us or through Airbnb and enjoy…
+     LINK:  -> https://omervilla.com/20-off-first-stay
+     LINK:  -> https://omervilla.com/20-off-first-stay
+     LINK: Promo -> https://omervilla.com/category/promo
+     IMG: https://omervilla.com/wp-content/uploads/2024/10/IMG_4276.jpeg |alt= 
+  © 2026 Omer Villas. A website by SuryaNirmala
+     LINK: SuryaNirmala -> http://suryanirmala.com
+  LINK/BTN: Close Menu -> # | slide_out_area_close
+  - Home
+     LINK: Home -> https://omervilla.com/
+  - Rooms & Rates
+     LINK: Rooms & Rates -> https://omervilla.com/rooms-rates
+  - Event & Venue
+     LINK: Event & Venue -> https://omervilla.com/event-venue
+  - Contact Us
+     LINK: Contact Us -> https://omervilla.com/contact-us

@@ -1,0 +1,294 @@
+.h2 {
+  font-size: var(--fs-h2);
+}
+
+/* Hero: title column, one tall photograph, two stacked photographs.
+   All three photo frames share the same top and bottom lines. */
+.hero {
+  display: grid;
+  grid-template-columns: 5fr 4fr 3.4fr;
+  grid-template-rows: 1fr 1fr;
+  gap: clamp(12px, 1.4vw, 20px);
+  min-height: clamp(520px, 70svh, 720px);
+  padding-top: calc(var(--header-h) + clamp(24px, 4vh, 48px));
+  padding-bottom: var(--section);
+  box-sizing: content-box;
+  background: var(--cream);
+}
+
+.print {
+  margin: 0;
+  overflow: hidden;
+  background: var(--cream-deep);
+}
+
+.heroText {
+  grid-column: 1;
+  grid-row: 1 / span 2;
+  align-self: center;
+  display: grid;
+  justify-items: start;
+  gap: 14px;
+  padding-right: clamp(8px, 2vw, 32px);
+}
+
+.introTitle {
+  margin-top: 6px;
+  font-size: var(--fs-h3);
+}
+
+.introBody {
+  max-width: 52ch;
+  line-height: 1.65;
+}
+
+.printTall {
+  grid-column: 2;
+  grid-row: 1 / span 2;
+}
+
+.printWide {
+  grid-column: 3;
+  grid-row: 1;
+}
+
+.printSmall {
+  grid-column: 3;
+  grid-row: 2;
+}
+
+.title {
+  font-size: var(--fs-display);
+  line-height: 0.95;
+  letter-spacing: -0.03em;
+}
+
+.jump {
+  margin-top: 10px;
+  font-size: var(--fs-small);
+}
+
+/* Features: three columns whose photographs share one height */
+.features {
+  display: grid;
+  grid-template-columns: 5fr 3fr 4fr;
+  gap: clamp(16px, 2vw, 32px);
+  align-items: start;
+  padding-block: var(--section);
+}
+
+.feature {
+  display: grid;
+  gap: 12px;
+  align-content: start;
+}
+
+.featureImg {
+  height: clamp(240px, 26vw, 420px);
+  margin: 0 0 8px;
+  overflow: hidden;
+}
+
+.featureTitle {
+  font-size: var(--fs-h3);
+}
+
+.featureBody {
+  max-width: 40ch;
+}
+
+/* Gallery */
+.gallery {
+  padding-bottom: var(--section);
+}
+
+/* Rates */
+.rates {
+  padding-block: var(--section);
+  background: var(--cream);
+}
+
+.ratesGrid {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  column-gap: clamp(16px, 2vw, 32px);
+  row-gap: 48px;
+  align-items: start;
+}
+
+.ratesSide {
+  grid-column: 1 / span 4;
+  position: sticky;
+  top: calc(var(--header-h) + 24px);
+  display: grid;
+  justify-items: start;
+  gap: 20px;
+}
+
+.ratesIntro {
+  color: var(--ink-soft);
+}
+
+.notice {
+  padding: 20px 22px;
+  background: var(--white);
+  border-left: 3px solid var(--taupe);
+  font-size: var(--fs-small);
+  line-height: 1.6;
+}
+
+.noticeTitle {
+  margin-bottom: 6px;
+  font-size: 1.125rem;
+  color: var(--ink);
+}
+
+.ratesActions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.ratesMain {
+  grid-column: 5 / span 8;
+}
+
+.footnote {
+  margin-top: 24px !important;
+  max-width: 64ch;
+  font-size: var(--fs-small);
+  color: var(--ink-soft);
+}
+
+/* Joglo */
+.joglo {
+  padding-block: var(--section);
+}
+
+.jogloGrid {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  column-gap: clamp(16px, 2vw, 32px);
+  row-gap: 40px;
+  align-items: start;
+  margin-bottom: calc(var(--section) * 0.7);
+}
+
+.jogloImg {
+  grid-column: 1 / span 6;
+  align-self: stretch;
+  min-height: 360px;
+  margin: 0;
+  overflow: hidden;
+}
+
+.jogloText {
+  grid-column: 7 / span 6;
+  display: grid;
+  gap: 18px;
+}
+
+.jogloTable {
+  margin: 8px 0 0;
+}
+
+.jogloTable div {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 16px;
+  padding: 14px 0;
+  border-bottom: 1px solid rgba(111, 100, 80, 0.45);
+}
+
+.jogloTable div:first-child {
+  border-top: 1px solid rgba(111, 100, 80, 0.45);
+}
+
+.jogloTable dt {
+  font-family: var(--sans);
+  font-weight: 300;
+  font-size: var(--fs-eyebrow);
+  letter-spacing: 1.5px;
+  color: var(--ink-soft);
+}
+
+.jogloTable dd {
+  margin: 0;
+  font-size: clamp(1.125rem, 1rem + 0.4vw, 1.375rem);
+  font-variant-numeric: tabular-nums lining-nums;
+}
+
+.jogloNote {
+  font-size: var(--fs-small);
+  color: var(--ink);
+  padding: 14px 18px;
+  background: var(--cream);
+}
+
+@media (max-width: 1000px) {
+  .ratesSide,
+  .ratesMain {
+    grid-column: 1 / -1;
+    position: static;
+  }
+
+  .hero {
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: auto clamp(260px, 52vw, 520px) clamp(160px, 30vw, 300px);
+    min-height: 0;
+  }
+
+  .heroText {
+    grid-column: 1 / -1;
+    grid-row: 1;
+    padding-bottom: 12px;
+  }
+
+  .printTall {
+    grid-column: 1 / -1;
+    grid-row: 2;
+  }
+
+  .printWide {
+    grid-column: 1;
+    grid-row: 3;
+  }
+
+  .printSmall {
+    grid-column: 2;
+    grid-row: 3;
+  }
+}
+
+@media (max-width: 800px) {
+  .features {
+    grid-template-columns: 1fr;
+    gap: 40px;
+  }
+
+  .featureImg {
+    height: auto;
+    aspect-ratio: 4 / 3;
+  }
+
+  .jogloImg,
+  .jogloText {
+    grid-column: 1 / -1;
+  }
+
+  .jogloImg {
+    min-height: 0;
+    aspect-ratio: 4 / 3;
+  }
+}
+
+/* The text sets the row height; the photograph fills it instead of growing it. */
+.jogloImg {
+  position: relative;
+}
+
+.jogloImg img {
+  position: absolute;
+  inset: 0;
+}

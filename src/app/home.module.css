@@ -1,0 +1,675 @@
+.h2 {
+  font-size: var(--fs-h2);
+}
+
+.body {
+  max-width: var(--measure);
+}
+
+/* Introduction: two columns that always end level. The right photograph
+   has a fixed shape; on the left, the photograph under the paragraph takes
+   whatever height remains, so the text size can change without gaps. */
+.intro {
+  padding-block: var(--section);
+}
+
+.introGrid {
+  display: grid;
+  grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+  gap: clamp(16px, 2vw, 32px);
+  align-items: stretch;
+}
+
+.introLeft {
+  display: flex;
+  flex-direction: column;
+  gap: clamp(20px, 2.2vw, 32px);
+}
+
+.statement {
+  /* Kept at 18-22px on purpose: rem values are divided by the 1.125 base. */
+  font-size: clamp(1rem, 0.889rem + 0.45vw, 1.2222rem);
+  line-height: 1.6;
+}
+
+.print {
+  margin: 0;
+  overflow: hidden;
+  background: var(--cream-deep);
+}
+
+.printFill {
+  position: relative;
+  flex: 1 1 auto;
+  min-height: 200px;
+}
+
+.printFill img {
+  position: absolute;
+  inset: 0;
+}
+
+/* A minimum height rather than a fixed shape: if the text grows, the photo
+   grows taller with it instead of getting wider. */
+.printMain {
+  position: relative;
+  min-height: clamp(320px, 38vw, 580px);
+}
+
+.printMain img {
+  position: absolute;
+  inset: 0;
+}
+
+/* Feature band: unequal panels that give way on hover */
+.features {
+  padding-bottom: 0;
+}
+
+.band {
+  display: flex;
+  height: 74svh;
+  min-height: 520px;
+  max-height: 820px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.band > li {
+  position: relative;
+  min-width: 0;
+  transition: flex-grow 0.7s var(--ease-out);
+}
+
+.panel0 { flex: 5 1 0; }
+.panel1 { flex: 2 1 0; }
+.panel2 { flex: 3 1 0; }
+.panel3 { flex: 2 1 0; }
+.panel4 { flex: 3 1 0; }
+.panel5 { flex: 2 1 0; }
+
+@media (hover: hover) and (min-width: 801px) {
+  .band:hover > li {
+    flex-grow: 2;
+  }
+
+  .band > li:hover,
+  .band > li:focus-within {
+    flex-grow: 6;
+  }
+}
+
+.panel {
+  position: absolute;
+  inset: 0;
+  display: block;
+  overflow: hidden;
+  color: var(--white);
+  text-decoration: none;
+  background: var(--night);
+}
+
+.panelImg {
+  transition:
+    transform 1.2s var(--ease-out),
+    filter 0.6s var(--ease-out);
+}
+
+.panel:hover .panelImg,
+.panel:focus-visible .panelImg {
+  transform: scale(1.05);
+}
+
+.panel::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(0deg, rgba(22, 19, 15, 0.72) 0%, rgba(22, 19, 15, 0) 55%);
+  pointer-events: none;
+}
+
+.panel:focus-visible {
+  outline: 3px solid var(--white);
+  outline-offset: -6px;
+}
+
+.panelText {
+  position: absolute;
+  left: clamp(16px, 1.6vw, 28px);
+  right: clamp(16px, 1.6vw, 28px);
+  bottom: clamp(18px, 2vw, 32px);
+  z-index: 1;
+  display: grid;
+  gap: 8px;
+}
+
+.panelTitle {
+  font-size: clamp(1.25rem, 1rem + 0.8vw, 1.875rem);
+  line-height: 1.15;
+}
+
+.panelRead {
+  font-family: var(--sans);
+  font-size: 0.8125rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  opacity: 0;
+  transform: translateY(8px);
+  transition:
+    opacity 0.45s var(--ease-out),
+    transform 0.45s var(--ease-out);
+}
+
+.panel:hover .panelRead,
+.panel:focus-visible .panelRead {
+  opacity: 1;
+  transform: none;
+}
+
+/* Discover */
+.discover {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  column-gap: clamp(16px, 2vw, 32px);
+  align-items: stretch;
+  background: var(--cream);
+}
+
+.discoverImg {
+  grid-column: 1 / span 5;
+  align-self: stretch;
+  margin: 0;
+  min-height: 420px;
+  overflow: hidden;
+}
+
+.discoverText {
+  grid-column: 7 / span 6;
+  display: grid;
+  justify-items: start;
+  align-content: center;
+  gap: 22px;
+}
+
+.listTitle {
+  margin-top: 24px;
+  font-size: var(--fs-h3);
+}
+
+.doList {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0 32px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.doList li > * {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 12px;
+  margin-bottom: 6px;
+  padding: 12px 16px;
+  background: var(--cream-deep);
+  text-decoration: none;
+  transition: background-color 0.35s var(--ease-out), color 0.35s var(--ease-out);
+}
+
+.doList li > a:hover {
+  background: var(--white);
+}
+
+.doList a span {
+  color: var(--taupe-deep);
+  transition: transform 0.4s var(--ease-out);
+}
+
+.doList a:hover span {
+  transform: translateX(5px);
+}
+
+.doList a:hover {
+  color: var(--taupe-deep);
+}
+
+/* Film pull-quote */
+.pullQuote {
+  max-width: 30ch;
+  margin: 0 0 0 auto;
+  font-size: var(--fs-statement);
+  line-height: 1.35;
+}
+
+/* Rates preview, set like a menu */
+.rates {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  column-gap: clamp(16px, 2vw, 32px);
+  align-items: start;
+}
+
+/* Left: heading, photograph, the rates note and the button; right: the list.
+   Both columns now end at about the same height. */
+.ratesSide {
+  grid-column: 1 / span 5;
+  display: grid;
+  justify-items: start;
+  gap: 18px;
+}
+
+.ratesImg {
+  width: 100%;
+  margin: 4px 0 0;
+  aspect-ratio: 16 / 9;
+  overflow: hidden;
+}
+
+.ratesList {
+  grid-column: 7 / span 6;
+  display: grid;
+  gap: 22px;
+}
+
+.ratesGroup {
+  margin-top: 26px !important;
+  font-family: var(--sans);
+  font-weight: 300;
+  font-size: var(--fs-eyebrow);
+  letter-spacing: 2px;
+  color: var(--taupe-deep);
+}
+
+.ratesGroup:first-child {
+  margin-top: 0 !important;
+}
+
+.rateRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 24px;
+}
+
+.rateRow p {
+  margin: 0;
+}
+
+.rateName,
+.ratePrice {
+  font-size: clamp(1.1875rem, 1.05rem + 0.5vw, 1.5rem);
+  line-height: 1.3;
+}
+
+.ratePrice {
+  flex: none;
+  font-variant-numeric: tabular-nums lining-nums;
+}
+
+.rateNote {
+  margin-top: 4px !important;
+  color: var(--ink-soft);
+  font-size: var(--fs-small);
+}
+
+.rateCaveat {
+  max-width: 52ch;
+  margin-top: 0 !important;
+  padding: 16px 20px;
+  background: var(--cream);
+  font-size: var(--fs-small);
+  color: var(--ink);
+}
+
+/* Event feature */
+.event {
+  position: relative;
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  padding-bottom: var(--section);
+  padding-right: var(--gutter);
+}
+
+.eventImg {
+  grid-column: 1 / -1;
+  grid-row: 1;
+  margin: 0;
+  height: min(86svh, 900px);
+  overflow: hidden;
+}
+
+.eventCard {
+  position: relative;
+  z-index: 1;
+  grid-column: 7 / span 6;
+  grid-row: 1;
+  align-self: end;
+  display: grid;
+  justify-items: start;
+  gap: 20px;
+  margin-bottom: calc(var(--section) * -0.5);
+  padding: clamp(28px, 3.4vw, 56px);
+  background: var(--white);
+}
+
+.eventPrice {
+  display: grid;
+  gap: 4px;
+  margin: 6px 0 0;
+  padding-left: 18px;
+  border-left: 2px solid var(--taupe);
+}
+
+.eventPrice dt {
+  color: var(--ink-soft);
+  font-size: var(--fs-small);
+}
+
+.eventPrice dd {
+  margin: 0;
+  font-size: var(--fs-h3);
+}
+
+.eventPrice dd span {
+  display: block;
+  margin-top: 4px;
+  color: var(--ink-soft);
+  font-size: var(--fs-small);
+}
+
+/* Location */
+.location {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  column-gap: clamp(16px, 2vw, 32px);
+  align-items: stretch;
+}
+
+.locationText {
+  grid-column: 1 / span 5;
+  display: grid;
+  gap: 0;
+}
+
+.locationText h2 {
+  margin-bottom: 28px;
+}
+
+.lead {
+  font-size: clamp(1.1875rem, 1.05rem + 0.5vw, 1.4375rem);
+  line-height: 1.55;
+}
+
+/* The map stretches to the height of the text beside it. */
+.locationMap {
+  grid-column: 7 / span 6;
+  align-self: stretch;
+}
+
+/* Instagram selection */
+.insta {
+  background: var(--cream);
+  padding-bottom: clamp(28px, 2.8vw, 44px) !important;
+}
+
+.instaHead {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: end;
+  justify-content: space-between;
+  gap: 16px 40px;
+  margin-bottom: clamp(24px, 3vw, 40px);
+}
+
+.instaNote {
+  max-width: 44ch;
+  color: var(--ink-soft);
+}
+
+.instaRow {
+  display: grid;
+  grid-template-columns: repeat(5, minmax(0, 1fr));
+  align-items: start;
+  gap: clamp(8px, 1vw, 16px);
+  margin: 0;
+  padding: 0 var(--gutter);
+  list-style: none;
+}
+
+.instaItem {
+  aspect-ratio: 4 / 5;
+}
+
+.instaItem {
+  display: block;
+  overflow: hidden;
+}
+
+.instaItem img {
+  transition: transform 1.1s var(--ease-out);
+}
+
+.instaItem:hover img {
+  transform: scale(1.05);
+}
+
+/* Promotion */
+/* Promotion: square artwork (never cropped) beside a cream panel that is
+   exactly as tall, with the content centred inside it. It runs edge to edge,
+   so it meets the inquiry band across the full width with no side strips. */
+.promo {
+  padding-top: var(--section);
+}
+
+.promoGrid {
+  display: grid;
+  grid-template-columns: minmax(0, 5fr) minmax(0, 7fr);
+  align-items: stretch;
+}
+
+.promoImg {
+  margin: 0;
+  aspect-ratio: 1;
+  overflow: hidden;
+}
+
+.promoPanel {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  gap: clamp(14px, 1.6vw, 22px);
+  padding: clamp(28px, 4.5vw, 72px) var(--gutter) clamp(28px, 4.5vw, 72px) clamp(28px, 4.5vw, 72px);
+  background: var(--cream);
+}
+
+.promoLabel {
+  padding: 4px 14px;
+  background: var(--taupe-deep);
+  color: var(--white);
+  font-family: var(--sans);
+  font-weight: 400;
+  font-size: 0.8125rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.promoTitle {
+  display: grid;
+  gap: 4px;
+}
+
+.promoBig {
+  font-size: clamp(3.25rem, 1.6rem + 5.4vw, 7.5rem);
+  line-height: 0.9;
+  letter-spacing: -0.04em;
+}
+
+.promoSub {
+  font-size: var(--fs-h3);
+  color: var(--ink-soft);
+}
+
+.promoBody {
+  max-width: 40ch;
+}
+
+.promoActions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 6px;
+}
+
+/* Tablet and phone compositions */
+@media (max-width: 1100px) {
+  .discoverText {
+    grid-column: 7 / -1;
+  }
+
+  .doList {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 800px) {
+  .introGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .printFill,
+  .printMain {
+    flex: none;
+    aspect-ratio: 4 / 3;
+    min-height: 0;
+  }
+
+  /* Rows split 64/36 then 36/64, so the slices stay unequal */
+  .band {
+    display: grid;
+    grid-template-columns: repeat(6, minmax(0, 1fr));
+    grid-auto-rows: clamp(220px, 36svh, 320px);
+    height: auto;
+    min-height: 0;
+    max-height: none;
+  }
+
+  .band > li:nth-child(4n + 1),
+  .band > li:nth-child(4n + 4) {
+    grid-column: span 4;
+  }
+
+  .band > li:nth-child(4n + 2),
+  .band > li:nth-child(4n + 3) {
+    grid-column: span 2;
+  }
+
+  .panelRead {
+    display: none;
+  }
+
+  .discover,
+  .rates,
+  .location {
+    row-gap: 48px;
+  }
+
+  .discoverImg {
+    grid-column: 1 / -1;
+    min-height: 0;
+    aspect-ratio: 4 / 3;
+  }
+
+  .discoverText,
+  .ratesList,
+  .locationText,
+  .locationMap {
+    grid-column: 1 / -1;
+  }
+
+  .ratesSide {
+    grid-column: 1 / -1;
+  }
+
+  .ratesImg {
+    display: none;
+  }
+
+  /* Phone: heading, prices, then the note and the button */
+  .ratesSide {
+    display: contents;
+  }
+
+  .ratesSide > *,
+  .ratesList {
+    grid-column: 1 / -1;
+  }
+
+  .ratesList {
+    order: 3;
+  }
+
+  .ratesSide > .rateCaveat {
+    order: 4;
+  }
+
+  .ratesSide > div:last-child {
+    order: 5;
+    margin-top: -24px;
+  }
+
+  .locationMap {
+    height: 420px;
+  }
+
+  .event {
+    padding-bottom: 0;
+  }
+
+  .eventImg {
+    height: 62svh;
+  }
+
+  .eventCard {
+    grid-column: 1 / -1;
+    grid-row: 2;
+    margin: -48px 0 var(--section);
+    padding-left: var(--gutter);
+  }
+
+  .instaRow {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .instaRow li:nth-child(5) {
+    display: none;
+  }
+
+  .promoGrid {
+    grid-template-columns: 1fr;
+  }
+
+  .promoPanel {
+    padding-inline: var(--gutter);
+  }
+}
+
+@media (max-width: 480px) {
+  .rateRow {
+    flex-direction: column;
+    gap: 2px;
+  }
+}
+
+/* The text sets the row height; the photograph fills it instead of growing it. */
+.discoverImg {
+  position: relative;
+}
+
+.discoverImg img {
+  position: absolute;
+  inset: 0;
+}

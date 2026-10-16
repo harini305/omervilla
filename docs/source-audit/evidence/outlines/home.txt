@@ -1,0 +1,131 @@
+TITLE: Omer Villas
+META robots = max-image-preview:large
+LINK ['canonical'] https://omervilla.com/
+---- ROW fws_6acea68b1df08 wpb_row vc_row-fluid vc_row top-level full-width-section vc_row-o-equal-height vc_row-flex
+  DATA-IMG data-nectar-img-src https://omervilla.com/wp-content/uploads/2024/09/Omer-Villa-front-joglo-night.jpg
+  <video> {} 
+  <source> {'src': 'https://omervilla.com/wp-content/uploads/2024/09/Short.mp4', 'type': 'video/mp4'} 
+---- ROW fws_6acea68b20bee wpb_row vc_row-fluid vc_row inner_row
+---- ROW fws_6acea68b2131c wpb_row vc_row-fluid vc_row full-width-section
+---- ROW fws_6acea68b2145e wpb_row vc_row-fluid vc_row inner_row
+[h6] — Welcome to Omer Villa & Retreat —
+[h2] Gather with loved ones, unwind, reconnect with yourself and nature.
+  Nestled in the serene landscapes of Bali, Omer Villa & Retreat is a haven for families, groups, and individuals seeking a peaceful escape. Surrounded by lush greenery, this eco-conscious retreat is designed to blend luxury with sustainability, offering an unforgettable holiday experience in harmony with nature.
+---- ROW fws_6acea68b21b4d wpb_row vc_row-fluid vc_row full-width-content vc_row-o-equal-height vc_row-flex vc_row-o-
+  LINK/BTN: Feature -> # | 
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Bedrooms-1-1024x768.jpg |alt=  | 1280 x 960
+  LINK/BTN: Rooms & Rates -> https://omervilla.com/rooms-rates | nectar-post-grid-link
+  LINK/BTN: Feature -> https://omervilla.com/category/feature | feature style-underline
+[h3] Rooms & Rates
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_110931-1024x682.jpg |alt=  | 1280 x 853
+  LINK/BTN: Event & Venue -> https://omervilla.com/event-venue | nectar-post-grid-link
+  LINK/BTN: Feature -> https://omervilla.com/category/feature | feature style-underline
+[h3] Event & Venue
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/DSC03429-682x1024.jpg |alt=  | 853 x 1280
+  LINK/BTN: Food & Beverage -> https://omervilla.com/food-beverage | nectar-post-grid-link
+  LINK/BTN: Feature -> https://omervilla.com/category/feature | feature style-underline
+[h3] Food & Beverage
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/omer-11-683x1024.jpg |alt=  | 1000 x 1500
+  LINK/BTN: Yoga & Wellness -> https://omervilla.com/yoga-wellness | nectar-post-grid-link
+  LINK/BTN: Feature -> https://omervilla.com/category/feature | feature style-underline
+[h3] Yoga & Wellness
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Spiritual-Activities-3-1024x768.jpg |alt=  | 1280 x 960
+  LINK/BTN: Cultural & Spiritual Activities -> https://omervilla.com/cultural-spiritual-activities | nectar-post-grid-link
+  LINK/BTN: Feature -> https://omervilla.com/category/feature | feature style-underline
+[h3] Cultural & Spiritual Activities
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/DSCF8625-2-1024x682.jpg |alt=  | 1280 x 853
+  LINK/BTN: Family & Groups -> https://omervilla.com/family-groups | nectar-post-grid-link
+  LINK/BTN: Feature -> https://omervilla.com/category/feature | feature style-underline
+[h3] Family & Groups
+---- ROW fws_6acea68b256d6 wpb_row vc_row-fluid vc_row full-width-section vc_row-o-equal-height vc_row-flex vc_row-o-
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/omer-28.jpg |alt=  | 1010 x 1500
+[h5] Discover
+[h2] Omer Villa and Retreat
+  Our villa is a modern yet soulful sanctuary with a deep respect for Balinese traditions. Omer Villa boasts spacious living areas, carefully curated interiors, and stunning outdoor spaces where you can unwind and reconnect with nature. Whether you’re lounging by the pool, enjoying a quiet moment in the garden, or watching the breathtaking sunrise, every corner of the villa is designed to offer relaxation and peace
+[h5] What you can do while stay at Omer
+---- ROW fws_6acea68b28b57 wpb_row vc_row-fluid vc_row inner_row
+  - Accommodation
+  - Weddings & Events
+  - Bali Culture & Rituals
+  - Yoga Retreats
+  - Surfing
+  - VW Tours
+  ” This villa offers luxury and comfort in a serene setting. Enjoy stunning views, a private pool, and lush gardens. Perfect for a tranquil and sophisticated getaway.
+---- ROW location wpb_row vc_row-fluid vc_row full-width-section
+---- ROW fws_6acea68b292d7 wpb_row vc_row-fluid vc_row inner_row
+[h2] Location
+  Omer Villa & Retreat is nestled in the peaceful Buduk Village, just north of Canggu, Bali, offering an idyllic escape for those seeking tranquility, eco-friendly living, and authentic Balinese experiences. The villa is surrounded by lush rice fields, providing guests with a serene and private retreat while still being conveniently close to popular attractions.
+  Just a short drive away, you’ll find Pererenan Beach, Batu Bolong Beach, Echo Beach, Cemagi Beach, Seseh Beach, and Kedungu Beach, renowned for their world-class surf breaks and vibrant beach bars. The trendy cafés, boutiques, gym, and yoga studios of Canggu are also easily accessible, offering a perfect blend of relaxation and modern amenities.
+  For those seeking cultural immersion, the iconic Tanah Lot Temple is just a 20-minute drive from the villa, where you can witness breathtaking sunsets over the Indian Ocean. Ubud, Bali’s cultural heart, is about an hour’s drive away, offering opportunities to explore traditional arts, dance performances, and stunning landscapes.
+  Omer Villa & Retreat provides the ideal base to experience the natural beauty and cultural richness of Bali, whether you’re looking for relaxation, adventure, or a bit of both.
+---- ROW fws_6acea68b29aee wpb_row vc_row-fluid vc_row full-width-section right_padding_phone_0px left_padding_phone_
+---- ROW fws_6acea68b29c0b wpb_row vc_row-fluid vc_row inner_row
+[h2] Keep connected with Omer
+  LINK/BTN: Every detail, thoughtfully designed for your comfo -> https://www.instagram.com/p/DebXHWfmawZ/ | sbi_photo
+     IMG: https://omervilla.com/wp-content/plugins/instagram-feed/img/placeholder.png |alt= Every detail, thoughtfully designed for your comfort. 
+
+From cozy bedrooms to refreshing bathrooms, every corner at OMER is made to help you slow down, unwind, and feel at home.
+
+Nature, Gather, Reconnect, Unwind. 🤍
+
+#omervillaandretreat #villa #villainbali #baliholiday
+  LINK/BTN: When the marketing team asks for a video, but your -> https://www.instagram.com/reel/DeWk_VThJOJ/ | sbi_photo
+     IMG: https://omervilla.com/wp-content/plugins/instagram-feed/img/placeholder.png |alt= When the marketing team asks for a video, but your camera roll says otherwise. 📸😂
+
+#omervillaandretreat #ourstaff #villalife #cangguvilla #
+  LINK/BTN: A little sunshine, something refreshing, and nowhe -> https://www.instagram.com/p/DeOPetYgcJy/ | sbi_photo
+     IMG: https://omervilla.com/wp-content/plugins/instagram-feed/img/placeholder.png |alt= A little sunshine, something refreshing, and nowhere else to be.  Slow down, take a sip, and enjoy the simple moments at OMER.
+
+#omervillaandretreat #villalife #baliholiday #balivilla
+  LINK/BTN: A little space to slow down, unwind, and feel at h -> https://www.instagram.com/reel/DeJHhpfhh8N/ | sbi_photo
+     IMG: https://omervilla.com/wp-content/plugins/instagram-feed/img/placeholder.png |alt= A little space to slow down, unwind, and feel at home. 🌿
+At OMER, every room is designed to offer a sense of comfort and calm, giving you the perfect place to rest and reconnect after a day in Bali.
+Your own little escape, surrounded by the peaceful rhythm of nature. 🤍
+
+#omervillaandretreat #baliholiday #villalife #balivilla #cangguvilla
+  <button> {'type': 'button'} Load More
+  LINK/BTN: Follow on Instagram -> https://www.instagram.com/omer.villa.and.retreat/ | 
+---- ROW fws_6acea68b3070d wpb_row vc_row-fluid vc_row full-width-section right_padding_phone_0px left_padding_phone_
+---- ROW fws_6acea68b3088c wpb_row vc_row-fluid vc_row inner_row
+[h2] Promotion
+  LINK/BTN: Promo -> # | 
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/IMG_4276-1024x1024.jpeg |alt=  | 1280 x 1280
+  LINK/BTN: 20% OFF First Stay -> https://omervilla.com/20-off-first-stay | nectar-post-grid-link
+  LINK/BTN: Promo -> https://omervilla.com/category/promo | promo style-button
+[h3] 20% OFF First Stay
+---- ROW fws_6acea68b36cec wpb_row vc_row-fluid vc_row full-width-section
+---- ROW fws_6acea68b36e69 wpb_row vc_row-fluid vc_row inner_row translate_y_0pct
+[h3] Send your inquiry. We are happy to assist you.
+  LINK/BTN: CONTACT US -> http://omervilla.com/contact-us/ | nectar-button large see-through-2 btnkr
+  LINK/BTN: FIND US ON AIRBNB -> https://www.airbnb.com/users/show/650556914 | nectar-button large regular accent-color has-icon regular-bu
+  IMG: http://omervilla.com/wp-content/uploads/2024/10/Omer-Logo-Footer.png |alt=  | 813 x 250
+  LINK/BTN: Rates -> http://omervilla.com/rooms-rates/ | 
+  LINK/BTN: Venue -> http://omervilla.com/event-venue/ | 
+  LINK/BTN: Wellness -> http://omervilla.com/yoga-wellness/ | 
+  LINK/BTN: Location -> http://omervilla.com/#location | 
+  LINK/BTN: Dining -> http://omervilla.com/food/ | 
+  LINK/BTN: Experience -> http://omervilla.com/cultural-spiritual-activities/ | 
+  LINK/BTN: Family & Groups -> http://omervilla.com/family-groups/ | 
+  LINK/BTN: Contact Us -> http://omervilla.com/contact-us/ | 
+[h6] Keep close with Omer
+  LINK/BTN:  -> https://www.instagram.com/omer.villa.and.retreat/ | 
+     IMG: http://omervilla.com/wp-content/uploads/2024/10/Ig-icon.png |alt= None
+  LINK/BTN:  -> https://www.facebook.com/profile.php?id=61564987540215&mibextid=kFxxJD | 
+     IMG: http://omervilla.com/wp-content/uploads/2024/10/facebook-icon.png |alt= None
+[h3] Omer Specials
+  Promo 20% OFF First Stay 20% OFF - First Stay - Book directly with us or through Airbnb and enjoy…
+     LINK:  -> https://omervilla.com/20-off-first-stay
+     LINK:  -> https://omervilla.com/20-off-first-stay
+     LINK: Promo -> https://omervilla.com/category/promo
+     IMG: https://omervilla.com/wp-content/uploads/2024/10/IMG_4276.jpeg |alt= 
+  © 2026 Omer Villas. A website by SuryaNirmala
+     LINK: SuryaNirmala -> http://suryanirmala.com
+  LINK/BTN: Close Menu -> # | slide_out_area_close
+  - Home
+     LINK: Home -> https://omervilla.com/
+  - Rooms & Rates
+     LINK: Rooms & Rates -> https://omervilla.com/rooms-rates
+  - Event & Venue
+     LINK: Event & Venue -> https://omervilla.com/event-venue
+  - Contact Us
+     LINK: Contact Us -> https://omervilla.com/contact-us

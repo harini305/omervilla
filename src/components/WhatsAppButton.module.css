@@ -1,0 +1,54 @@
+.wa {
+  position: fixed;
+  right: 16px;
+  bottom: 16px;
+  z-index: 40;
+  display: flex;
+  align-items: center;
+  gap: 0;
+  height: 56px;
+  padding: 0 14px;
+  border-radius: 28px;
+  background: var(--whatsapp);
+  color: #0b3d1f;
+  font-family: var(--sans);
+  font-size: 0.875rem;
+  text-decoration: none;
+  /* Floats over content, so it carries a shadow. */
+  box-shadow: 0 12px 30px -12px rgba(0, 0, 0, 0.45);
+  transition:
+    gap 0.4s var(--ease-out),
+    transform 0.35s var(--ease-out),
+    opacity 0.35s var(--ease-out),
+    visibility 0s linear 0s;
+}
+
+/* Hidden while the footer is on screen */
+.hidden {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transform: translateY(16px);
+  transition:
+    transform 0.35s var(--ease-out),
+    opacity 0.35s var(--ease-out),
+    visibility 0s linear 0.35s;
+}
+
+.label {
+  max-width: 0;
+  overflow: hidden;
+  white-space: nowrap;
+  transition: max-width 0.45s var(--ease-out);
+}
+
+.wa:hover,
+.wa:focus-visible {
+  gap: 10px;
+  transform: translateY(-2px);
+}
+
+.wa:hover .label,
+.wa:focus-visible .label {
+  max-width: 160px;
+}

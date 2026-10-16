@@ -1,0 +1,201 @@
+/* Omer Villa & Retreat — global tokens and base styles.
+   Brand colours are the audited originals (04-brand-typography-colors.md).
+   --taupe-deep and --ink are derived only where text needs WCAG AA contrast. */
+
+:root {
+  --taupe: #9c8f74;
+  --taupe-deep: #6f6450;
+  --cream: #f2ecde;
+  --cream-deep: #e8dfcb;
+  --white: #ffffff;
+  --ink: #221e19;
+  --ink-soft: #5c5449;
+  --night: #16130f;
+  --airbnb: #ff7575;
+  --whatsapp: #25d366;
+
+  --serif: Georgia, "Times New Roman", serif;
+  --sans: var(--font-roboto), "Helvetica Neue", Arial, sans-serif;
+
+  --fs-display: clamp(2.5rem, 1.5rem + 4.2vw, 5.75rem);
+  --fs-h2: clamp(2rem, 1.45rem + 2.1vw, 3.5rem);
+  --fs-h3: clamp(1.375rem, 1.2rem + 0.7vw, 1.875rem);
+  --fs-statement: clamp(1.5rem, 1.2rem + 1.1vw, 2.25rem);
+  --fs-body: clamp(1.0625rem, 1rem + 0.2vw, 1.1875rem);
+  --fs-small: 0.9375rem;
+  --fs-eyebrow: 0.875rem;
+
+  --gutter: clamp(20px, 5vw, 88px);
+  --section: clamp(36px, 3.6vw, 64px);
+  --measure: 62ch;
+  --header-h: 136px;
+  --header-scrolled-h: 96px;
+
+  --ease-out: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+/* 18px base (was the browser's 16px): every rem-based size on the site,
+   headings, body, buttons and labels, scales up together by 12.5%. */
+html {
+  font-size: 112.5%;
+  -webkit-text-size-adjust: 100%;
+  scroll-padding-top: calc(var(--header-h) + 16px);
+}
+
+body {
+  margin: 0;
+  background: var(--white);
+  color: var(--ink);
+  font-family: var(--serif);
+  font-size: var(--fs-body);
+  line-height: 1.65;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  overflow-x: clip;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--serif);
+  font-weight: 400;
+  line-height: 1.12;
+  letter-spacing: -0.012em;
+  margin: 0;
+  text-wrap: balance;
+}
+
+p {
+  margin: 0;
+  text-wrap: pretty;
+}
+
+p + p {
+  margin-top: 1.1em;
+}
+
+img,
+video {
+  display: block;
+  max-width: 100%;
+}
+
+a {
+  color: inherit;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.22em;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+}
+
+::selection {
+  background: rgba(156, 143, 116, 0.35);
+  color: var(--ink);
+}
+
+:focus-visible {
+  outline: 2px solid var(--taupe-deep);
+  outline-offset: 3px;
+}
+
+.skip-link {
+  position: fixed;
+  left: 16px;
+  top: -64px;
+  z-index: 100;
+  padding: 12px 18px;
+  background: var(--ink);
+  color: var(--white);
+  font-family: var(--sans);
+  font-size: var(--fs-small);
+  text-decoration: none;
+  transition: top 0.2s;
+}
+
+.skip-link:focus {
+  top: 16px;
+}
+
+.visually-hidden {
+  position: absolute !important;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+/* Layout helpers */
+.wrap {
+  padding-inline: var(--gutter);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  column-gap: clamp(16px, 2vw, 32px);
+}
+
+.section {
+  padding-block: var(--section);
+}
+
+.measure {
+  max-width: var(--measure);
+}
+
+.cover {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+/* Motion: hidden start states only exist while JS motion is confirmed active.
+   The inline script in layout.js adds .motion-ok and removes it again if
+   GSAP has not taken over within 2.5s, so content can never stay hidden. */
+.motion-ok [data-hero-in] {
+  opacity: 0;
+}
+
+.motion-ok [data-shutter] {
+  clip-path: inset(100% 0% 0% 0%);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* The page's last section sits directly on the inquiry band: no strip of
+   leftover space between them, whatever that section is. */
+main > :has(+ [data-cta-band]) {
+  padding-bottom: 0 !important;
+  margin-bottom: 0 !important;
+}
+
+/* Phone header is shorter (see Header.module.css); keep spacing in step. */
+@media (max-width: 600px) {
+  :root {
+    --header-h: 100px;
+    --header-scrolled-h: 80px;
+  }
+}

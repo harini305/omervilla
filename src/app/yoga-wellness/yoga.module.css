@@ -1,0 +1,94 @@
+/* The quietest page: centred once, generous white space, inset imagery. */
+.hero {
+  padding-top: calc(var(--header-h) + clamp(32px, 6vh, 72px));
+}
+
+.heroText {
+  display: grid;
+  justify-items: center;
+  gap: 18px;
+  text-align: center;
+  margin-bottom: clamp(32px, 4vw, 56px);
+}
+
+.title {
+  font-size: var(--fs-display);
+  line-height: 1;
+  letter-spacing: -0.03em;
+}
+
+.heroImg {
+  margin: 0 var(--gutter);
+  aspect-ratio: 21 / 9;
+  overflow: hidden;
+}
+
+/* Words between two portraits; all three columns start on one line */
+.text {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  gap: 40px clamp(16px, 2vw, 32px);
+  align-items: start;
+  padding-block: var(--section);
+}
+
+.tagline {
+  margin-bottom: 28px;
+  font-size: var(--fs-h2);
+}
+
+.portrait {
+  margin: 0;
+  aspect-ratio: 2 / 3;
+  overflow: hidden;
+}
+
+.portraitA {
+  grid-column: 1 / span 3;
+}
+
+.paras {
+  grid-column: 4 / span 6;
+  display: grid;
+  justify-items: start;
+  padding-inline: clamp(0px, 2vw, 32px);
+}
+
+.lead {
+  font-size: clamp(1.1875rem, 1.05rem + 0.5vw, 1.4375rem);
+  line-height: 1.6;
+}
+
+.actions {
+  margin-top: 32px;
+}
+
+.portraitB {
+  grid-column: 10 / span 3;
+}
+
+.gallery {
+  padding-bottom: var(--section);
+}
+
+@media (max-width: 900px) {
+  .heroImg {
+    aspect-ratio: 4 / 3;
+  }
+
+  .paras {
+    grid-column: 1 / -1;
+    grid-row: 1;
+    padding-inline: 0;
+  }
+
+  .portraitA {
+    grid-column: 1 / span 6;
+    grid-row: 2;
+  }
+
+  .portraitB {
+    grid-column: 7 / -1;
+    grid-row: 2;
+  }
+}

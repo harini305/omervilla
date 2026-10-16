@@ -1,0 +1,49 @@
+.band {
+  position: relative;
+  isolation: isolate;
+  min-height: 88svh;
+  display: flex;
+  align-items: center;
+  color: var(--white);
+  background: var(--night);
+  overflow: hidden;
+}
+
+.video {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  filter: brightness(0.55);
+}
+
+.inner {
+  width: 100%;
+  padding-block: clamp(64px, 7vw, 112px);
+}
+
+.toggle {
+  position: absolute;
+  left: var(--gutter);
+  bottom: 24px;
+  min-height: 44px;
+  padding: 0 16px;
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  background: transparent;
+  color: var(--white);
+  font-family: var(--sans);
+  font-size: 0.8125rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  cursor: pointer;
+  transition:
+    background-color 0.3s,
+    color 0.3s;
+}
+
+.toggle:hover {
+  background: var(--white);
+  color: var(--ink);
+}

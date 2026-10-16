@@ -1,0 +1,10 @@
+node_modules/
+.next/
+out/
+.taste-skill/
+*.log
+.env*
+
+# Original WordPress downloads (102 MB). The site never loads them; it uses the
+# optimised copies in public/media. Kept locally for scripts/prepare-media.py.
+source-assets/

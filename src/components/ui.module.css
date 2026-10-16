@@ -1,0 +1,106 @@
+.button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.7em;
+  min-height: 52px;
+  padding: 0 28px;
+  font-family: var(--sans);
+  font-weight: 400;
+  font-size: 0.875rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  text-decoration: none;
+  border: 1px solid transparent;
+  border-radius: 0;
+  cursor: pointer;
+  transition:
+    background-color 0.35s var(--ease-out),
+    color 0.35s var(--ease-out),
+    border-color 0.35s var(--ease-out),
+    transform 0.35s var(--ease-out);
+}
+
+.button:active {
+  transform: translateY(1px);
+}
+
+.primary {
+  background: var(--ink);
+  color: var(--white);
+}
+
+.primary:hover {
+  background: var(--taupe-deep);
+}
+
+.taupe {
+  background: var(--taupe-deep);
+  color: var(--white);
+}
+
+.taupe:hover {
+  background: var(--ink);
+}
+
+.outline {
+  border-color: currentColor;
+  color: var(--ink);
+  background: transparent;
+}
+
+.outline:hover {
+  background: var(--ink);
+  border-color: var(--ink);
+  color: var(--white);
+}
+
+.light {
+  background: var(--white);
+  color: var(--ink);
+}
+
+.light:hover {
+  background: var(--cream);
+}
+
+.ghostLight {
+  border-color: rgba(255, 255, 255, 0.85);
+  color: var(--white);
+  background: transparent;
+}
+
+.ghostLight:hover {
+  background: var(--white);
+  color: var(--ink);
+}
+
+/* Airbnb link: the site's dark ink instead of the old coral, so it sits
+   calmly on the taupe band next to the white Contact Us button. */
+.airbnb {
+  background: var(--ink);
+  color: var(--white);
+}
+
+.airbnb:hover {
+  background: var(--night);
+  color: var(--cream);
+}
+
+.whatsapp {
+  background: var(--whatsapp);
+  color: var(--ink);
+}
+
+.whatsapp:hover {
+  background: #4fe08a;
+}
+
+.arrow {
+  display: inline-block;
+  transition: transform 0.35s var(--ease-out);
+}
+
+.button:hover .arrow {
+  transform: translateX(4px);
+}

@@ -1,0 +1,104 @@
+.h2 {
+  font-size: var(--fs-h2);
+}
+
+/* A field of brand taupe carrying one oversized number */
+.hero {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  column-gap: clamp(16px, 2vw, 32px);
+  align-items: center;
+  padding-top: calc(var(--header-h) + clamp(32px, 5vh, 64px));
+  padding-bottom: var(--section);
+  background: var(--taupe);
+  color: var(--ink);
+}
+
+.heroText {
+  grid-column: 1 / span 7;
+  display: grid;
+  justify-items: start;
+  gap: 18px;
+}
+
+.heroText p,
+.heroText p span {
+  color: var(--ink);
+}
+
+.title {
+  font-size: clamp(4.5rem, 2rem + 11vw, 13rem);
+  line-height: 0.85;
+  letter-spacing: -0.045em;
+  white-space: nowrap;
+}
+
+.artwork {
+  grid-column: 8 / span 5;
+  margin: 0;
+  aspect-ratio: 1;
+  overflow: hidden;
+}
+
+.offer {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  column-gap: clamp(16px, 2vw, 32px);
+  row-gap: 48px;
+  align-items: center;
+  padding-block: var(--section);
+}
+
+.offerImg {
+  grid-column: 1 / span 5;
+  margin: 0;
+  aspect-ratio: 4 / 5;
+  overflow: hidden;
+}
+
+.offerText {
+  grid-column: 7 / span 6;
+  display: grid;
+  justify-items: start;
+  gap: 24px;
+}
+
+.lead {
+  max-width: 40ch;
+  font-size: clamp(1.1875rem, 1.05rem + 0.5vw, 1.4375rem);
+  line-height: 1.6;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.terms {
+  max-width: 52ch;
+  padding: 16px 20px;
+  background: var(--cream);
+  font-size: var(--fs-small);
+}
+
+@media (max-width: 800px) {
+  .heroText {
+    grid-column: 1 / -1;
+  }
+
+  .artwork {
+    grid-column: 1 / -1;
+    margin: 40px 0 0;
+  }
+
+  .offerImg {
+    grid-column: 1 / -1;
+    aspect-ratio: 4 / 3;
+  }
+
+  .offerText {
+    grid-column: 1 / -1;
+    padding-top: 0;
+  }
+}

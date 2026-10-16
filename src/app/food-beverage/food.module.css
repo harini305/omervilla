@@ -1,0 +1,137 @@
+/* Opening: words on the left, the photograph with an inset on the right,
+   both columns sharing one top and bottom line */
+.hero {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  column-gap: clamp(16px, 2vw, 32px);
+  row-gap: 40px;
+  align-items: stretch;
+  padding-top: calc(var(--header-h) + clamp(32px, 5vh, 64px));
+  padding-bottom: var(--section);
+  background: var(--cream);
+}
+
+.heroText {
+  grid-column: 1 / span 6;
+  display: grid;
+  align-content: center;
+  justify-items: start;
+  gap: 20px;
+}
+
+.title {
+  font-size: clamp(2.5rem, 1.4rem + 3.8vw, 5.25rem);
+  line-height: 0.98;
+  letter-spacing: -0.03em;
+}
+
+.tagline {
+  max-width: 24ch;
+  margin-top: 8px;
+  font-size: var(--fs-h3);
+}
+
+.lead {
+  max-width: 54ch;
+}
+
+.heroMedia {
+  grid-column: 8 / span 5;
+  position: relative;
+  min-height: clamp(460px, 64svh, 720px);
+}
+
+.heroImg {
+  position: absolute;
+  inset: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
+.heroInset {
+  position: absolute;
+  left: clamp(-80px, -5vw, -32px);
+  bottom: clamp(24px, 3vw, 48px);
+  z-index: 1;
+  width: 38%;
+  aspect-ratio: 3 / 4;
+  margin: 0;
+  overflow: hidden;
+  outline: clamp(6px, 0.8vw, 12px) solid var(--cream);
+}
+
+/* Second paragraph beside a photograph of the same height */
+.story {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  gap: 40px clamp(16px, 2vw, 32px);
+  align-items: stretch;
+  padding-block: var(--section);
+}
+
+.storyImg {
+  grid-column: 1 / span 5;
+  min-height: 380px;
+  margin: 0;
+  overflow: hidden;
+}
+
+.second {
+  grid-column: 7 / span 6;
+  display: grid;
+  align-content: center;
+  justify-items: start;
+  gap: 28px;
+  font-size: clamp(1.1875rem, 1.05rem + 0.5vw, 1.4375rem);
+  line-height: 1.6;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  font-size: var(--fs-body);
+}
+
+.table {
+  padding-bottom: var(--section);
+}
+
+.galleryTitle {
+  margin-bottom: clamp(20px, 2.4vw, 36px);
+  font-size: var(--fs-h3);
+}
+
+@media (max-width: 900px) {
+  .heroText,
+  .heroMedia,
+  .storyImg,
+  .second {
+    grid-column: 1 / -1;
+  }
+
+  .heroMedia {
+    min-height: 0;
+    aspect-ratio: 4 / 5;
+  }
+
+  .heroInset {
+    left: 16px;
+    bottom: 16px;
+  }
+
+  .storyImg {
+    min-height: 0;
+    aspect-ratio: 4 / 3;
+  }
+}
+
+/* The text sets the row height; the photograph fills it instead of growing it. */
+.storyImg {
+  position: relative;
+}
+
+.storyImg img {
+  position: absolute;
+  inset: 0;
+}

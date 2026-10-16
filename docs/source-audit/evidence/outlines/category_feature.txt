@@ -1,0 +1,78 @@
+TITLE: Feature – Omer Villas
+META robots = max-image-preview:large
+[h1] Feature
+  LINK/BTN: Rooms & Rates -> https://omervilla.com/rooms-rates | entire-meta-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Bedrooms-1.jpg |alt=  | 1280 x 960
+  LINK/BTN: Feature -> https://omervilla.com/category/feature | feature
+[h3] Rooms & Rates
+  LINK/BTN: Event & Venue -> https://omervilla.com/event-venue | entire-meta-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_110931.jpg |alt=  | 1280 x 853
+  LINK/BTN: Feature -> https://omervilla.com/category/feature | feature
+[h3] Event & Venue
+  LINK/BTN: Food & Beverage -> https://omervilla.com/food-beverage | entire-meta-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/DSC03429.jpg |alt=  | 853 x 1280
+  LINK/BTN: Feature -> https://omervilla.com/category/feature | feature
+[h3] Food & Beverage
+  LINK/BTN: Yoga & Wellness -> https://omervilla.com/yoga-wellness | entire-meta-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/omer-11.jpg |alt=  | 1000 x 1500
+  LINK/BTN: Feature -> https://omervilla.com/category/feature | feature
+[h3] Yoga & Wellness
+  LINK/BTN: Cultural & Spiritual Activities -> https://omervilla.com/cultural-spiritual-activities | entire-meta-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Spiritual-Activities-3.jpg |alt=  | 1280 x 960
+  LINK/BTN: Feature -> https://omervilla.com/category/feature | feature
+[h3] Cultural & Spiritual Activities
+  LINK/BTN: Family & Groups -> https://omervilla.com/family-groups | entire-meta-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/DSCF8625-2.jpg |alt=  | 1280 x 853
+  LINK/BTN: Feature -> https://omervilla.com/category/feature | feature
+[h3] Family & Groups
+  <form> {'method': 'get', 'action': 'https://omervilla.com/'} 
+  <input> {'placeholder': '', 'value': '', 'type': 'search', 'name': 's'} 
+  <button> {'type': 'submit'} Search
+[h2] Recent Posts
+  - 20% OFF First Stay
+     LINK: 20% OFF First Stay -> https://omervilla.com/20-off-first-stay
+  - Rooms & Rates
+     LINK: Rooms & Rates -> https://omervilla.com/rooms-rates
+  - Event & Venue
+     LINK: Event & Venue -> https://omervilla.com/event-venue
+  - Food & Beverage
+     LINK: Food & Beverage -> https://omervilla.com/food-beverage
+  - Yoga & Wellness
+     LINK: Yoga & Wellness -> https://omervilla.com/yoga-wellness
+[h2] Recent Comments
+---- ROW fws_6ad049d404224 wpb_row vc_row-fluid vc_row full-width-section
+---- ROW fws_6ad049d406f82 wpb_row vc_row-fluid vc_row inner_row translate_y_0pct
+[h3] Send your inquiry. We are happy to assist you.
+  LINK/BTN: CONTACT US -> http://omervilla.com/contact-us/ | nectar-button large see-through-2 btnkr
+  LINK/BTN: FIND US ON AIRBNB -> https://www.airbnb.com/users/show/650556914 | nectar-button large regular accent-color has-icon regular-bu
+  IMG: http://omervilla.com/wp-content/uploads/2024/10/Omer-Logo-Footer.png |alt=  | 813 x 250
+  LINK/BTN: Rates -> http://omervilla.com/rooms-rates/ | 
+  LINK/BTN: Venue -> http://omervilla.com/event-venue/ | 
+  LINK/BTN: Wellness -> http://omervilla.com/yoga-wellness/ | 
+  LINK/BTN: Location -> http://omervilla.com/#location | 
+  LINK/BTN: Dining -> http://omervilla.com/food/ | 
+  LINK/BTN: Experience -> http://omervilla.com/cultural-spiritual-activities/ | 
+  LINK/BTN: Family & Groups -> http://omervilla.com/family-groups/ | 
+  LINK/BTN: Contact Us -> http://omervilla.com/contact-us/ | 
+[h6] Keep close with Omer
+  LINK/BTN:  -> https://www.instagram.com/omer.villa.and.retreat/ | 
+     IMG: http://omervilla.com/wp-content/uploads/2024/10/Ig-icon.png |alt= None
+  LINK/BTN:  -> https://www.facebook.com/profile.php?id=61564987540215&mibextid=kFxxJD | 
+     IMG: http://omervilla.com/wp-content/uploads/2024/10/facebook-icon.png |alt= None
+[h3] Omer Specials
+  Promo 20% OFF First Stay 20% OFF - First Stay - Book directly with us or through Airbnb and enjoy…
+     LINK:  -> https://omervilla.com/20-off-first-stay
+     LINK:  -> https://omervilla.com/20-off-first-stay
+     LINK: Promo -> https://omervilla.com/category/promo
+     IMG: https://omervilla.com/wp-content/uploads/2024/10/IMG_4276.jpeg |alt= 
+  © 2026 Omer Villas. A website by SuryaNirmala
+     LINK: SuryaNirmala -> http://suryanirmala.com
+  LINK/BTN: Close Menu -> # | slide_out_area_close
+  - Home
+     LINK: Home -> https://omervilla.com/
+  - Rooms & Rates
+     LINK: Rooms & Rates -> https://omervilla.com/rooms-rates
+  - Event & Venue
+     LINK: Event & Venue -> https://omervilla.com/event-venue
+  - Contact Us
+     LINK: Contact Us -> https://omervilla.com/contact-us

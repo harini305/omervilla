@@ -1,0 +1,50 @@
+/* Band + footer together are at least one screen tall, so the end of the
+   page shows only these two. --footer-h is measured by FooterFit. */
+.band {
+  display: flex;
+  align-items: center;
+  min-height: calc(100svh - var(--footer-h, 0px));
+  background: var(--taupe);
+  color: var(--white);
+}
+
+.band > .inner {
+  width: 100%;
+}
+
+/* At the very end of the page the fixed header covers the band's top, so
+   centre the content in the part that is actually visible. Phones skip this:
+   their footer is taller than the screen, so the band never stretches. */
+@media (min-width: 801px) {
+  .band {
+    padding-top: var(--header-scrolled-h);
+  }
+}
+
+.inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: space-between;
+  gap: 32px 48px;
+  padding-block: clamp(40px, 4.4vw, 64px);
+}
+
+/* White on the brand taupe passes AA only as large text, so the heading stays large. */
+.heading {
+  max-width: 24ch;
+  font-size: clamp(1.75rem, 1.1rem + 1.6vw + 1.2vh, 3.25rem);
+  line-height: 1.2;
+}
+
+@media (max-width: 800px) {
+  .heading {
+    font-size: clamp(1.75rem, 1.35rem + 1.3vw, 2.5rem);
+  }
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+}

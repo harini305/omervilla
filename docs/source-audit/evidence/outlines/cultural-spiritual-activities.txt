@@ -1,0 +1,60 @@
+TITLE: Cultural & Spiritual Activities – Omer Villas
+META robots = max-image-preview:large
+LINK ['canonical'] https://omervilla.com/cultural-spiritual-activities
+  BG[page-header-bg-image]: https://omervilla.com/wp-content/uploads/2024/10/Omer-Spiritual-Activities-3.jpg
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/Omer-Spiritual-Activities-3.jpg |alt= Cultural & Spiritual Activities | None x None
+  LINK/BTN: Feature -> https://omervilla.com/category/feature | feature
+[h1] Cultural & Spiritual Activities
+  LINK/BTN: nsurya.wijaya -> https://omervilla.com/author/nsurya-wijaya | 
+  LINK/BTN: No Comments -> https://omervilla.com/cultural-spiritual-activities#respond | 
+---- ROW fws_6aced5178776f wpb_row vc_row-fluid vc_row full-width-section
+  DATA-IMG data-nectar-img-src https://omervilla.com/wp-content/uploads/2024/10/pray4.jpg
+[h1] Cultural & Spiritual
+[h6] – Activities –
+---- ROW about wpb_row vc_row-fluid vc_row full-width-section vc_row-o-equal-height vc_row-flex vc_row-o-
+  <video> {} 
+  <source> {'src': 'http://omervilla.com/wp-content/uploads/2024/10/Omer.mp4', 'type': 'video/mp4'} 
+---- ROW fws_6aced51787f4f wpb_row vc_row-fluid vc_row inner_row
+[h2] Cultural & Spiritual Activities
+  Our villa is located in the traditional Balinese village of Buduk, offering you the opportunity to immerse yourself in the local culture. Guests are encouraged to participate in authentic Balinese rituals and ceremonies, providing a deeper connection to the island’s rich heritage. From the Melukat purification ceremony and making traditional offerings to local cooking classes, your experience at Omer Villa will be both enriching and unique.
+  LINK/BTN:  -> # | 
+  LINK/BTN: Share -> # | facebook-share nectar-sharing
+  LINK/BTN: Share -> # | twitter-share nectar-sharing
+  LINK/BTN: Share -> # | linkedin-share nectar-sharing
+  LINK/BTN: Pin -> # | pinterest-share nectar-sharing
+---- ROW fws_6aced51788e8e wpb_row vc_row-fluid vc_row full-width-section
+---- ROW fws_6aced51788f63 wpb_row vc_row-fluid vc_row inner_row translate_y_0pct
+[h3] Send your inquiry. We are happy to assist you.
+  LINK/BTN: CONTACT US -> http://omervilla.com/contact-us/ | nectar-button large see-through-2 btnkr
+  LINK/BTN: FIND US ON AIRBNB -> https://www.airbnb.com/users/show/650556914 | nectar-button large regular accent-color has-icon regular-bu
+  IMG: http://omervilla.com/wp-content/uploads/2024/10/Omer-Logo-Footer.png |alt=  | 813 x 250
+  LINK/BTN: Rates -> http://omervilla.com/rooms-rates/ | 
+  LINK/BTN: Venue -> http://omervilla.com/event-venue/ | 
+  LINK/BTN: Wellness -> http://omervilla.com/yoga-wellness/ | 
+  LINK/BTN: Location -> http://omervilla.com/#location | 
+  LINK/BTN: Dining -> http://omervilla.com/food/ | 
+  LINK/BTN: Experience -> http://omervilla.com/cultural-spiritual-activities/ | 
+  LINK/BTN: Family & Groups -> http://omervilla.com/family-groups/ | 
+  LINK/BTN: Contact Us -> http://omervilla.com/contact-us/ | 
+[h6] Keep close with Omer
+  LINK/BTN:  -> https://www.instagram.com/omer.villa.and.retreat/ | 
+     IMG: http://omervilla.com/wp-content/uploads/2024/10/Ig-icon.png |alt= None
+  LINK/BTN:  -> https://www.facebook.com/profile.php?id=61564987540215&mibextid=kFxxJD | 
+     IMG: http://omervilla.com/wp-content/uploads/2024/10/facebook-icon.png |alt= None
+[h3] Omer Specials
+  Promo 20% OFF First Stay 20% OFF - First Stay - Book directly with us or through Airbnb and enjoy…
+     LINK:  -> https://omervilla.com/20-off-first-stay
+     LINK:  -> https://omervilla.com/20-off-first-stay
+     LINK: Promo -> https://omervilla.com/category/promo
+     IMG: https://omervilla.com/wp-content/uploads/2024/10/IMG_4276.jpeg |alt= 
+  © 2026 Omer Villas. A website by SuryaNirmala
+     LINK: SuryaNirmala -> http://suryanirmala.com
+  LINK/BTN: Close Menu -> # | slide_out_area_close
+  - Home
+     LINK: Home -> https://omervilla.com/
+  - Rooms & Rates
+     LINK: Rooms & Rates -> https://omervilla.com/rooms-rates
+  - Event & Venue
+     LINK: Event & Venue -> https://omervilla.com/event-venue
+  - Contact Us
+     LINK: Contact Us -> https://omervilla.com/contact-us

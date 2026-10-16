@@ -1,0 +1,242 @@
+.h2 {
+  font-size: var(--fs-h2);
+}
+
+.hero {
+  position: relative;
+  isolation: isolate;
+  min-height: 100svh;
+  display: flex;
+  align-items: flex-end;
+  color: var(--white);
+  background: var(--night);
+}
+
+.heroMedia {
+  position: absolute;
+  inset: 0;
+  z-index: -1;
+  overflow: hidden;
+}
+
+.heroMedia::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(180deg, rgba(22, 19, 15, 0.45) 0%, rgba(22, 19, 15, 0) 24%),
+    linear-gradient(0deg, rgba(22, 19, 15, 0.7) 0%, rgba(22, 19, 15, 0) 52%);
+}
+
+.heroText {
+  width: 100%;
+  display: grid;
+  justify-items: start;
+  gap: 18px;
+  padding-bottom: clamp(40px, 6vw, 88px);
+}
+
+/* Two-line title stepping across the frame */
+.title {
+  display: grid;
+  width: 100%;
+  font-size: clamp(3.25rem, 1.6rem + 7vw, 9rem);
+  line-height: 0.92;
+  letter-spacing: -0.035em;
+}
+
+.titleIndent {
+  padding-left: 28%;
+}
+
+/* Intro: two paragraphs beside one photograph of the same height */
+.intro {
+  padding-block: var(--section);
+}
+
+.tagline {
+  max-width: 22ch;
+  font-size: var(--fs-h2);
+  margin-bottom: clamp(32px, 4vw, 56px);
+}
+
+.introCols {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  gap: clamp(24px, 3vw, 48px) clamp(16px, 2vw, 32px);
+  align-items: stretch;
+}
+
+.introText {
+  grid-column: 1 / span 7;
+  max-width: 64ch;
+}
+
+.lead {
+  font-size: clamp(1.1875rem, 1.05rem + 0.5vw, 1.4375rem);
+  line-height: 1.6;
+}
+
+.introImg {
+  grid-column: 8 / span 5;
+  min-height: 420px;
+  margin: 0;
+  overflow: hidden;
+}
+
+/* Prices chapter */
+.prices {
+  padding-block: var(--section);
+  background: var(--night);
+  color: var(--white);
+}
+
+.pricesGrid {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  column-gap: clamp(16px, 2vw, 32px);
+  row-gap: 48px;
+  align-items: start;
+}
+
+.pricesSide {
+  grid-column: 1 / span 4;
+  display: grid;
+  gap: 24px;
+}
+
+.pricesImg {
+  width: 100%;
+  margin: 0;
+  aspect-ratio: 4 / 5;
+  overflow: hidden;
+}
+
+.menu {
+  grid-column: 6 / span 7;
+  display: grid;
+  gap: 40px;
+}
+
+.menuItem {
+  display: grid;
+  gap: 12px;
+}
+
+.menuRow {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 24px;
+}
+
+.menuName {
+  font-size: var(--fs-h3);
+}
+
+.menuPrice {
+  flex: none;
+  font-size: var(--fs-h3);
+  color: var(--cream);
+  font-variant-numeric: tabular-nums lining-nums;
+}
+
+.menuNote,
+.menuSub {
+  max-width: 56ch;
+  color: rgba(255, 255, 255, 0.82);
+  font-size: var(--fs-small);
+  margin: 0 !important;
+}
+
+.menuSub {
+  margin-top: 8px !important;
+  color: var(--white);
+}
+
+.menuRooms {
+  display: grid;
+  gap: 10px;
+  margin: 4px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.menuRooms li {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 20px;
+  padding: 14px 18px;
+  background: rgba(255, 255, 255, 0.06);
+}
+
+.muted {
+  color: rgba(255, 255, 255, 0.72);
+  font-size: var(--fs-small);
+}
+
+.menuRoomPrice {
+  flex: none;
+  font-variant-numeric: tabular-nums lining-nums;
+}
+
+.confirm {
+  max-width: 56ch;
+  font-size: var(--fs-small);
+  color: rgba(255, 255, 255, 0.82);
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+/* Gallery */
+.gallery {
+  padding-block: var(--section);
+}
+
+@media (max-width: 900px) {
+  .introText,
+  .introImg {
+    grid-column: 1 / -1;
+  }
+
+  .introImg {
+    min-height: 0;
+    aspect-ratio: 4 / 3;
+  }
+
+  .pricesSide,
+  .menu {
+    grid-column: 1 / -1;
+  }
+
+  .pricesImg {
+    display: none;
+  }
+}
+
+@media (max-width: 600px) {
+  .titleIndent {
+    padding-left: 18%;
+  }
+
+  .menuRow,
+  .menuRooms li {
+    flex-direction: column;
+    gap: 4px;
+  }
+}
+
+/* The text sets the row height; the photograph fills it instead of growing it. */
+.introImg {
+  position: relative;
+}
+
+.introImg img {
+  position: absolute;
+  inset: 0;
+}

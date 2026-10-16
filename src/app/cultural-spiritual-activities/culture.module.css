@@ -1,0 +1,133 @@
+.h2 {
+  font-size: var(--fs-h2);
+}
+
+.hero {
+  padding-top: calc(var(--header-h) + clamp(32px, 5vh, 64px));
+  padding-bottom: var(--section);
+  background: var(--cream);
+}
+
+.heroText {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 12px 32px;
+  margin-bottom: clamp(32px, 4vw, 56px);
+}
+
+.title {
+  font-size: var(--fs-display);
+  line-height: 1;
+  letter-spacing: -0.03em;
+}
+
+/* The 1600×402 banner is shown at or below its own width, never enlarged. */
+.panorama {
+  position: relative;
+  max-width: 1600px;
+  margin: 0;
+  aspect-ratio: 1600 / 402;
+  overflow: hidden;
+}
+
+.film {
+  display: grid;
+  grid-template-columns: repeat(12, minmax(0, 1fr));
+  column-gap: clamp(16px, 2vw, 32px);
+  row-gap: 48px;
+  align-items: stretch;
+  padding-block: var(--section);
+}
+
+.videoWrap {
+  grid-column: 1 / span 4;
+}
+
+.videoWrap {
+  position: relative;
+  min-height: 520px;
+}
+
+/* The film fills the column; the text and photographs beside it set the height. */
+.video {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  background: var(--night);
+}
+
+.filmText {
+  grid-column: 5 / span 8;
+  display: grid;
+  justify-items: start;
+  gap: 24px;
+}
+
+.lead {
+  max-width: 62ch;
+  font-size: clamp(1.1875rem, 1.05rem + 0.5vw, 1.4375rem);
+  line-height: 1.6;
+}
+
+.actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 8px;
+}
+
+/* Three photographs in one row: column widths follow each frame's ratio
+   (4:3 beside two 9:16), so all three share the same height. */
+.story {
+  display: grid;
+  grid-template-columns: 2.37fr 1fr 1fr;
+  gap: clamp(10px, 1.2vw, 16px);
+  align-items: start;
+  width: 100%;
+  margin-top: 16px;
+}
+
+.frame {
+  margin: 0;
+}
+
+.clip {
+  overflow: hidden;
+}
+
+.frame:first-child .clip {
+  aspect-ratio: 4 / 3;
+}
+
+.frame:not(:first-child) .clip {
+  aspect-ratio: 9 / 16;
+}
+
+.frame figcaption {
+  margin-top: 10px;
+  font-size: var(--fs-small);
+  color: var(--ink-soft);
+}
+
+@media (max-width: 900px) {
+  .videoWrap {
+    grid-column: 1 / span 8;
+    min-height: 0;
+    aspect-ratio: 9 / 16;
+  }
+
+  .filmText {
+    grid-column: 1 / -1;
+  }
+
+  .story {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .frame:first-child {
+    grid-column: 1 / -1;
+  }
+}

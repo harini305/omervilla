@@ -1,0 +1,59 @@
+TITLE: 20% OFF First Stay – Omer Villas
+META robots = max-image-preview:large
+LINK ['canonical'] https://omervilla.com/20-off-first-stay
+  BG[page-header-bg-image]: https://omervilla.com/wp-content/uploads/2024/10/IMG_4276.jpeg
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/IMG_4276.jpeg |alt= 20% OFF First Stay | None x None
+  LINK/BTN: Promo -> https://omervilla.com/category/promo | promo
+[h1] 20% OFF First Stay
+  LINK/BTN: nsurya.wijaya -> https://omervilla.com/author/nsurya-wijaya | 
+  LINK/BTN: No Comments -> https://omervilla.com/20-off-first-stay#respond | 
+---- ROW fws_6acf042c5adfd wpb_row vc_row-fluid vc_row full-width-section
+  DATA-IMG data-nectar-img-src https://omervilla.com/wp-content/uploads/2024/10/omer-28.jpg
+[h1] 20% OFF
+[h6] – First Stay –
+---- ROW about wpb_row vc_row-fluid vc_row vc_row-o-equal-height vc_row-flex vc_row-o-content-middle
+  DATA-IMG data-nectar-img-src https://omervilla.com/wp-content/uploads/2024/10/IMG_4276.jpeg
+[h2] Get 20% off your first stay at OMER Villa & Retreat!
+---- ROW fws_6acf042c5c21b wpb_row vc_row-fluid vc_row inner_row
+  Book directly with us or through Airbnb and enjoy a special discount on your perfect Bali getaway.
+  LINK/BTN:  -> # | 
+  LINK/BTN: Share -> # | facebook-share nectar-sharing
+  LINK/BTN: Share -> # | twitter-share nectar-sharing
+  LINK/BTN: Share -> # | linkedin-share nectar-sharing
+  LINK/BTN: Pin -> # | pinterest-share nectar-sharing
+---- ROW fws_6acf042c5e549 wpb_row vc_row-fluid vc_row full-width-section
+---- ROW fws_6acf042c5e66b wpb_row vc_row-fluid vc_row inner_row translate_y_0pct
+[h3] Send your inquiry. We are happy to assist you.
+  LINK/BTN: CONTACT US -> http://omervilla.com/contact-us/ | nectar-button large see-through-2 btnkr
+  LINK/BTN: FIND US ON AIRBNB -> https://www.airbnb.com/users/show/650556914 | nectar-button large regular accent-color has-icon regular-bu
+  IMG: http://omervilla.com/wp-content/uploads/2024/10/Omer-Logo-Footer.png |alt=  | 813 x 250
+  LINK/BTN: Rates -> http://omervilla.com/rooms-rates/ | 
+  LINK/BTN: Venue -> http://omervilla.com/event-venue/ | 
+  LINK/BTN: Wellness -> http://omervilla.com/yoga-wellness/ | 
+  LINK/BTN: Location -> http://omervilla.com/#location | 
+  LINK/BTN: Dining -> http://omervilla.com/food/ | 
+  LINK/BTN: Experience -> http://omervilla.com/cultural-spiritual-activities/ | 
+  LINK/BTN: Family & Groups -> http://omervilla.com/family-groups/ | 
+  LINK/BTN: Contact Us -> http://omervilla.com/contact-us/ | 
+[h6] Keep close with Omer
+  LINK/BTN:  -> https://www.instagram.com/omer.villa.and.retreat/ | 
+     IMG: http://omervilla.com/wp-content/uploads/2024/10/Ig-icon.png |alt= None
+  LINK/BTN:  -> https://www.facebook.com/profile.php?id=61564987540215&mibextid=kFxxJD | 
+     IMG: http://omervilla.com/wp-content/uploads/2024/10/facebook-icon.png |alt= None
+[h3] Omer Specials
+  Promo 20% OFF First Stay 20% OFF - First Stay - Book directly with us or through Airbnb and enjoy…
+     LINK:  -> https://omervilla.com/20-off-first-stay
+     LINK:  -> https://omervilla.com/20-off-first-stay
+     LINK: Promo -> https://omervilla.com/category/promo
+     IMG: https://omervilla.com/wp-content/uploads/2024/10/IMG_4276.jpeg |alt= 
+  © 2026 Omer Villas. A website by SuryaNirmala
+     LINK: SuryaNirmala -> http://suryanirmala.com
+  LINK/BTN: Close Menu -> # | slide_out_area_close
+  - Home
+     LINK: Home -> https://omervilla.com/
+  - Rooms & Rates
+     LINK: Rooms & Rates -> https://omervilla.com/rooms-rates
+  - Event & Venue
+     LINK: Event & Venue -> https://omervilla.com/event-venue
+  - Contact Us
+     LINK: Contact Us -> https://omervilla.com/contact-us

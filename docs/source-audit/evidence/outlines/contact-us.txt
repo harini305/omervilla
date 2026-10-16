@@ -1,0 +1,55 @@
+TITLE: Contact Us – Omer Villas
+META robots = max-image-preview:large
+LINK ['canonical'] https://omervilla.com/contact-us
+---- ROW fws_6aced4491ae11 wpb_row vc_row-fluid vc_row top-level full-width-section
+  DATA-IMG data-nectar-img-src https://omervilla.com/wp-content/uploads/2024/10/Omer-Villa-and-Retreat17.jpg
+[h1] Contact Us
+[h6] – We are happy to assist you –
+---- ROW fws_6aced4491b898 wpb_row vc_row-fluid vc_row full-width-section zindex-set
+---- ROW fws_6aced4491be5e wpb_row vc_row-fluid vc_row inner_row
+[h2] We love to hear from you
+---- ROW fws_6aced4491c659 wpb_row vc_row-fluid vc_row inner_row
+[h5] Send us your inquiry.
+  Name Email Address Check In Check Out Number of pax Requirement 5 Bedroom 4 Bedroom 3 Bedroom 2 Bedroom 1 Bedroom No of bedroom required Your message Send Message
+---- ROW fws_6aced44923f88 wpb_row vc_row-fluid vc_row full-width-section
+  DATA-IMG data-nectar-img-src https://omervilla.com/wp-content/uploads/2024/10/DSCF8577.jpg
+  “ Highly recommend staying In this beautiful villa, the rooms are very spacious and comfortable and the bathroom includes a bathtub and shower with a modern toilet in a beautiful garden room. The staff are amazing and will help with any needs you have. The pool and gardens are kept immaculate and are beautiful. The villas are in a nice peaceful location away from all the hustle and bustle, but only 10 minutes from the beach, markets and waterfront restaurants ect. Our stay was perfect and would highly recommend staying here. ”
+  “ Stayed here for a friends wedding, new well maintained villa, quiet, bright, lots of space, home atmosphere. There is also a backyard where you can walk on the grass and have a barbecue. One side of the villa overlooks a rice field, where you can also walk. There are rooms for couples, as well as for families with children. ”
+  “ Omer is the most beautiful, peaceful and comfortable villa we have stayed in Indonesia. Pool is amazing and the attention to detail around the villa is next level. 10/10 service and facilities. We will most certainly be back. ”
+  “ We just had the most AMAZING stay here at Omer Villa & Retreat, located in a nice quiet area with beautiful gardens and fresh modern rooms styled to perfection. It was the perfect getaway with family, we felt at home and loved chilling by the pool or having a drink in the outdoor undercover area. The staff are just beautiful people. We attended a wedding there and it was spectacular and ideal as we were able to also stay onsite. I would highly recommend to anyone looking for a relaxing stay to visit these stunning newly built Villa's. Perfect for families, couples or friends! ”
+---- ROW fws_6aced449256ac wpb_row vc_row-fluid vc_row full-width-section
+---- ROW fws_6aced4492580d wpb_row vc_row-fluid vc_row inner_row translate_y_0pct
+[h3] Send your inquiry. We are happy to assist you.
+  LINK/BTN: CONTACT US -> http://omervilla.com/contact-us/ | nectar-button large see-through-2 btnkr
+  LINK/BTN: FIND US ON AIRBNB -> https://www.airbnb.com/users/show/650556914 | nectar-button large regular accent-color has-icon regular-bu
+  IMG: http://omervilla.com/wp-content/uploads/2024/10/Omer-Logo-Footer.png |alt=  | 813 x 250
+  LINK/BTN: Rates -> http://omervilla.com/rooms-rates/ | 
+  LINK/BTN: Venue -> http://omervilla.com/event-venue/ | 
+  LINK/BTN: Wellness -> http://omervilla.com/yoga-wellness/ | 
+  LINK/BTN: Location -> http://omervilla.com/#location | 
+  LINK/BTN: Dining -> http://omervilla.com/food/ | 
+  LINK/BTN: Experience -> http://omervilla.com/cultural-spiritual-activities/ | 
+  LINK/BTN: Family & Groups -> http://omervilla.com/family-groups/ | 
+  LINK/BTN: Contact Us -> http://omervilla.com/contact-us/ | 
+[h6] Keep close with Omer
+  LINK/BTN:  -> https://www.instagram.com/omer.villa.and.retreat/ | 
+     IMG: http://omervilla.com/wp-content/uploads/2024/10/Ig-icon.png |alt= None
+  LINK/BTN:  -> https://www.facebook.com/profile.php?id=61564987540215&mibextid=kFxxJD | 
+     IMG: http://omervilla.com/wp-content/uploads/2024/10/facebook-icon.png |alt= None
+[h3] Omer Specials
+  Promo 20% OFF First Stay 20% OFF - First Stay - Book directly with us or through Airbnb and enjoy…
+     LINK:  -> https://omervilla.com/20-off-first-stay
+     LINK:  -> https://omervilla.com/20-off-first-stay
+     LINK: Promo -> https://omervilla.com/category/promo
+     IMG: https://omervilla.com/wp-content/uploads/2024/10/IMG_4276.jpeg |alt= 
+  © 2026 Omer Villas. A website by SuryaNirmala
+     LINK: SuryaNirmala -> http://suryanirmala.com
+  LINK/BTN: Close Menu -> # | slide_out_area_close
+  - Home
+     LINK: Home -> https://omervilla.com/
+  - Rooms & Rates
+     LINK: Rooms & Rates -> https://omervilla.com/rooms-rates
+  - Event & Venue
+     LINK: Event & Venue -> https://omervilla.com/event-venue
+  - Contact Us
+     LINK: Contact Us -> https://omervilla.com/contact-us

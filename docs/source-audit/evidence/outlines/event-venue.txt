@@ -1,0 +1,114 @@
+TITLE: Event & Venue – Omer Villas
+META robots = max-image-preview:large
+LINK ['canonical'] https://omervilla.com/event-venue
+  BG[page-header-bg-image]: https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_110931.jpg
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_110931.jpg |alt= Event & Venue | None x None
+  LINK/BTN: Feature -> https://omervilla.com/category/feature | feature
+[h1] Event & Venue
+  LINK/BTN: nsurya.wijaya -> https://omervilla.com/author/nsurya-wijaya | 
+  LINK/BTN: No Comments -> https://omervilla.com/event-venue#respond | 
+---- ROW fws_6acecb6fbb4a2 wpb_row vc_row-fluid vc_row full-width-section
+  DATA-IMG data-nectar-img-src https://omervilla.com/wp-content/uploads/2024/09/MATANAI_MNR_111509-e1727740449225.jpg
+[h1] Event & Venue
+[h6] – Celebrate Life’s Moments –
+---- ROW fws_6acecb6fbc175 wpb_row vc_row-fluid vc_row full-width-content vc_row-o-equal-height vc_row-flex vc_row-o-
+[h2] Event & Venue
+[h6] Celebrate Life’s Moments – Perfect Events Begin at Omer Villa & Retreat
+  Omer Villa & Retreat offers the perfect setting for your wedding or special event, surrounded by the serene beauty of Bali’s lush rice fields. With its cozy, casual, and intimate ambiance, the villa creates a warm and inviting atmosphere for gatherings. Imagine exchanging vows against the backdrop of stunning green rice field or hosting an unforgettable celebration in a relaxed yet elegant space.
+  We provide an all-inclusive package to make your event seamless and stress-free, covering everything from transportation and planning to food catering, entertainment, and more. Plus, we offer tailor-made options based on your budget and specific requirements, ensuring every detail is exactly as you envision it. Whether it’s a small, private ceremony or a laid-back event with friends and family, Omer provides a unique venue where you can celebrate life’s special moments in the heart of nature.
+[h4] Event / Party / Retreat / Gathering
+[h4] IDR 19,999,999
+  *Per 1 day event, excluding 10% government tax. Rate is for the venue only. Maximum capacity: 40 people. Additional room need to be booked during the event: 4 Rooms with minimum 2 nights IDR 9,999,000/night (breakfast not included) 6 Rooms with minimum 2 nights IDR 14,999,000/night (breakfast not included)
+[h4] Venue Rental for Photoshoot
+[h4] IDR 999,999 /hour
+  Price are per hour, excluding 10% government tax.
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/c8648cd6-3f85-433e-a779-ada3e6ba9e2e-1024x682.jpg |alt=  | 1024 x 682
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/c8648cd6-3f85-433e-a779-ada3e6ba9e2e.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_109969-682x1024.jpg |alt=  | 682 x 1024
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_109969.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_110931-1024x682.jpg |alt=  | 1024 x 682
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_110931.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_111124-1024x682.jpg |alt=  | 1024 x 682
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_111124.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_112230-682x1024.jpg |alt=  | 682 x 1024
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_112230.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_113230-682x1024.jpg |alt=  | 682 x 1024
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_113230.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_115084-682x1024.jpg |alt=  | 682 x 1024
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_115084.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_109944-682x1024.jpg |alt=  | 682 x 1024
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_109944.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_109979-682x1024.jpg |alt=  | 682 x 1024
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_109979.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_111641-682x1024.jpg |alt=  | 682 x 1024
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_111641.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_111984-1024x682.jpg |alt=  | 1024 x 682
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_111984.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_112097-1024x682.jpg |alt=  | 1024 x 682
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_112097.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_112599-682x1024.jpg |alt=  | 682 x 1024
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_112599.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_112708-682x1024.jpg |alt=  | 682 x 1024
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_112708.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_112786-1024x682.jpg |alt=  | 1024 x 682
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_112786.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_113140-1024x682.jpg |alt=  | 1024 x 682
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_113140.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_113442-1024x682.jpg |alt=  | 1024 x 682
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_113442.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_113446-1024x682.jpg |alt=  | 1024 x 682
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_113446.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_113494-1024x682.jpg |alt=  | 1024 x 682
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_113494.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_113641-1024x682.jpg |alt=  | 1024 x 682
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_113641.jpg | entire-slide-link
+  IMG: https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_115907-682x1024.jpg |alt=  | 682 x 1024
+  LINK/BTN:  -> https://omervilla.com/wp-content/uploads/2024/10/MATANAI_MNR_115907.jpg | entire-slide-link
+[h3] Leave a Reply Cancel Reply
+  <form> {'action': 'https://omervilla.com/wp-comments-post.php', 'method': 'post'} 
+  <textarea> {'name': 'comment'} 
+  <input> {'name': 'author', 'type': 'text', 'value': ''} 
+  <input> {'name': 'email', 'type': 'text', 'value': ''} 
+  <input> {'name': 'url', 'type': 'text', 'value': ''} 
+  Save my name, email, and website in this browser for the next time I comment.
+  LINK/BTN:  -> # | 
+  LINK/BTN: Share -> # | facebook-share nectar-sharing
+  LINK/BTN: Share -> # | twitter-share nectar-sharing
+  LINK/BTN: Share -> # | linkedin-share nectar-sharing
+  LINK/BTN: Pin -> # | pinterest-share nectar-sharing
+---- ROW fws_6acecb6fc32cf wpb_row vc_row-fluid vc_row full-width-section
+---- ROW fws_6acecb6fc4c16 wpb_row vc_row-fluid vc_row inner_row translate_y_0pct
+[h3] Send your inquiry. We are happy to assist you.
+  LINK/BTN: CONTACT US -> http://omervilla.com/contact-us/ | nectar-button large see-through-2 btnkr
+  LINK/BTN: FIND US ON AIRBNB -> https://www.airbnb.com/users/show/650556914 | nectar-button large regular accent-color has-icon regular-bu
+  IMG: http://omervilla.com/wp-content/uploads/2024/10/Omer-Logo-Footer.png |alt=  | 813 x 250
+  LINK/BTN: Rates -> http://omervilla.com/rooms-rates/ | 
+  LINK/BTN: Venue -> http://omervilla.com/event-venue/ | 
+  LINK/BTN: Wellness -> http://omervilla.com/yoga-wellness/ | 
+  LINK/BTN: Location -> http://omervilla.com/#location | 
+  LINK/BTN: Dining -> http://omervilla.com/food/ | 
+  LINK/BTN: Experience -> http://omervilla.com/cultural-spiritual-activities/ | 
+  LINK/BTN: Family & Groups -> http://omervilla.com/family-groups/ | 
+  LINK/BTN: Contact Us -> http://omervilla.com/contact-us/ | 
+[h6] Keep close with Omer
+  LINK/BTN:  -> https://www.instagram.com/omer.villa.and.retreat/ | 
+     IMG: http://omervilla.com/wp-content/uploads/2024/10/Ig-icon.png |alt= None
+  LINK/BTN:  -> https://www.facebook.com/profile.php?id=61564987540215&mibextid=kFxxJD | 
+     IMG: http://omervilla.com/wp-content/uploads/2024/10/facebook-icon.png |alt= None
+[h3] Omer Specials
+  Promo 20% OFF First Stay 20% OFF - First Stay - Book directly with us or through Airbnb and enjoy…
+     LINK:  -> https://omervilla.com/20-off-first-stay
+     LINK:  -> https://omervilla.com/20-off-first-stay
+     LINK: Promo -> https://omervilla.com/category/promo
+     IMG: https://omervilla.com/wp-content/uploads/2024/10/IMG_4276.jpeg |alt= 
+  © 2026 Omer Villas. A website by SuryaNirmala
+     LINK: SuryaNirmala -> http://suryanirmala.com
+  LINK/BTN: Close Menu -> # | slide_out_area_close
+  - Home
+     LINK: Home -> https://omervilla.com/
+  - Rooms & Rates
+     LINK: Rooms & Rates -> https://omervilla.com/rooms-rates
+  - Event & Venue
+     LINK: Event & Venue -> https://omervilla.com/event-venue
+  - Contact Us
+     LINK: Contact Us -> https://omervilla.com/contact-us
