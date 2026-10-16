@@ -1,0 +1,7 @@
+# Not needed to build or serve the site; keeps uploads and builds small.
+source-assets/
+docs/
+out/
+.next/
+.taste-skill/
+node_modules/
